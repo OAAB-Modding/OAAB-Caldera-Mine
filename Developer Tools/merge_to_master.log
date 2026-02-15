@@ -1,14 +1,21 @@
 Merging plugins...
-Merging object to master: SCPT VV23_floorwarpexitdown
-Merging object to master: SCPT vv23_floorwarpup
-Merging object to master: SCPT VV23_warpexit
-Merging object to master: SCPT VV23_floorwarpdowntombstair
-Merging object to master: SCPT VV23_floorwarpdown
-Merging interior to master: Marvayn Ancestral Tomb
-Merging interior to master: Bthumzchekar, Industrial Station
-Merging interior to master: Monastery of Order, Crystallography Lab
-Merging interior to master: Monastery of Order, Hall of Travel
-Merging interior to master: Suran Sewers, Lower
-Merging interior to master: Monastery of Order
+Merging object to master: DOOR DD_door_gate_01_LH
+Copying object to master: STAT AB_Ex_DrystonePiling01
+Merging object to master: STAT DD_furn_smelter
+Copying object to master: STAT AB_Ex_DrystonePiling03
+Copying object to master: STAT AB_Ex_DrystonePiling02
+Copying object to master: STAT AB_In_CaveMoldRubble00
+Merging object to master: DOOR DD_door_gate_01_RH
+Merging exterior to master: (-4, 1)
+Merging exterior to master: (-2, 1)
+Merging exterior to master: (-3, 1)
+Merging exterior to master: (-4, 0)
+Merging exterior to master: (-3, 2)
+Merging exterior to master: (-2, 0)
+Merging exterior to master: (-3, 0)
+Merging interior to master: Caldera Mine
+Removed deleted STAT object: DD_furn_smelter
+Removed deleted DOOR object: DD_door_gate_01_RH
+Removed deleted DOOR object: DD_door_gate_01_LH
 Saving results...
 Finished!
