@@ -1,10 +1,24 @@
 Merging plugins...
-Merging exterior to master: (-4, 0)
+Remapping texture index: (2 -> 5) RM_grayrock
+Remapping texture index: (3 -> 6) RM_redrock
+Remapping texture index: (4 -> 8) AL_ash_04
+Remapping texture index: (7 -> 13) MA_lava05
+Remapping texture index: (5 -> 9) AL_road_01
+Remapping texture index: (6 -> 12) MA_lavarock
+Merging object to master: LTEX RM_grayrock
+Merging object to master: LTEX RM_redrock
+Merging object to master: LTEX RM_rock_01
+Merging object to master: LTEX AL_ash_04
+Merging object to master: LTEX MA_lava05
+Merging object to master: LTEX AL_road_01
+Merging object to master: LTEX MA_lavarock
+Merging object to master: LTEX RM_rock_02
 Merging exterior to master: (-3, 1)
-Merging exterior to master: (-2, 1)
+Merging exterior to master: (-4, 0)
 Merging exterior to master: (-3, 0)
-Merging exterior to master: (-3, 2)
-Merging exterior to master: (-2, 0)
 Merging exterior to master: (-4, 1)
+Merging exterior to master: (-2, 0)
+Merging exterior to master: (-2, 1)
+Merging exterior to master: (-3, 2)
 Saving results...
 Finished!
