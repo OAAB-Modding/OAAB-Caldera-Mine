@@ -1,17 +1,10 @@
 Merging plugins...
-Merging object to master: ACTI AB_light_ComSconceLeverEXAMPLE
-Copying object to master: GLOB ABcm_Active
-Merging object to master: GLOB RP_DD_Caldera
-Copying object to master: SSCR 2052031927315816532
-Copying object to master: SCPT ABcm_Start_s
-Merging exterior to master: (-4, 0)
-Merging exterior to master: (-2, 0)
 Merging exterior to master: (-3, 2)
 Merging exterior to master: (-2, 1)
-Merging exterior to master: (-3, 1)
-Merging exterior to master: (-3, 0)
 Merging exterior to master: (-4, 1)
-Removed deleted ACTI object: AB_light_ComSconceLeverEXAMPLE
-Removed deleted GLOB object: RP_DD_Caldera
+Merging exterior to master: (-2, 0)
+Merging exterior to master: (-3, 1)
+Merging exterior to master: (-4, 0)
+Merging exterior to master: (-3, 0)
 Saving results...
 Finished!
