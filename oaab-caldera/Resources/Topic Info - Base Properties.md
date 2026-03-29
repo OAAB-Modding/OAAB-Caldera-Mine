@@ -1,0 +1,268 @@
+---
+ID: garisa llethri
+Disposition:
+Race:
+  - Redguard
+  - Dark Elf
+  - Imperial
+  - Breton
+  - Nord
+  - Wood Elf
+  - High Elf
+  - Khajiit
+  - Argonian
+  - Orc
+Sex:
+  - Female
+  - Male
+Class:
+  - Acrobat
+  - Agent
+  - Alchemist
+  - Alchemist Service
+  - Apothecary
+  - Apothecary Service
+  - Archer
+  - Assassin
+  - Assassin Service
+  - Barbarian
+  - Bard
+  - Battlemage
+  - Battlemage Service
+  - Bookseller
+  - Buoyant Armiger
+  - Caravaner
+  - Caretaker
+  - Champion
+  - Clothier
+  - Commoner
+  - Crusader
+  - Dreamers
+  - Drillmaster
+  - Drillmaster Service
+  - Enchanter
+  - Enchanter Service
+  - Enforcer
+  - Farmer
+  - Gardener
+  - Gondolier
+  - Guard
+  - Guild Guide
+  - Healer
+  - Healer Service
+  - Herder
+  - Hunter
+  - Journalist
+  - King
+  - Knight
+  - Mabrigash
+  - Mage
+  - Mage Service
+  - Master-at-Arms
+  - Merchant
+  - Miner
+  - Monk
+  - Monk Service
+  - Necromancer
+  - Nightblade
+  - Nightblade Service
+  - Noble
+  - Ordinator
+  - Ordinator Guard
+  - Pauper
+  - Pawnbroker
+  - Pilgrim
+  - Priest
+  - Priest Service
+  - Publican
+  - Queen Mother
+  - Rogue
+  - Savant
+  - Savant Service
+  - Scout
+  - Shaman
+  - Sharpshooter
+  - Shipmaster
+  - Slave
+  - Smith
+  - Smuggler
+  - Sorcerer
+  - Sorcerer Service
+  - Spellsword
+  - Thief
+  - Thief Service
+  - Trader
+  - Trader Service
+  - Warlock
+  - Warrior
+  - Wise Woman
+  - Wise Woman Service
+  - Witch
+  - Witchhunter
+Faction:
+  - _NO FACTION_
+  - Ashlanders
+  - Blades
+  - Camonna Tong
+  - Census and Excise
+  - Clan Aundae
+  - Clan Berne
+  - Clan Quarra
+  - Dark Brotherhood
+  - East Empire Company
+  - Fighters Guild
+  - Hands of Almalexia
+  - Hlaalu
+  - Imperial Cult
+  - Imperial Knights
+  - Imperial Legion
+  - Mages Guild
+  - Morag Tong
+  - Nerevarine
+  - Redoran
+  - Royal Guard
+  - Sixth House
+  - Skaal
+  - Talos Cult
+  - Telvanni
+  - Temple
+  - Thieves Guild
+  - Twin Lamps
+Rank:
+  - Rank 0
+  - Rank 1
+  - Rank 2
+  - Rank 3
+  - Rank 4
+  - Rank 5
+  - Rank 6
+  - Rank 7
+  - Rank 8
+  - Rank 9
+Cell:
+PC Faction:
+  - _NO FACTION_
+  - Ashlanders
+  - Blades
+  - Camonna Tong
+  - Census and Excise
+  - Clan Aundae
+  - Clan Berne
+  - Clan Quarra
+  - Dark Brotherhood
+  - East Empire Company
+  - Fighters Guild
+  - Hands of Almalexia
+  - Hlaalu
+  - Imperial Cult
+  - Imperial Knights
+  - Imperial Legion
+  - Mages Guild
+  - Morag Tong
+  - Nerevarine
+  - Redoran
+  - Royal Guard
+  - Sixth House
+  - Skaal
+  - Talos Cult
+  - Telvanni
+  - Temple
+  - Thieves Guild
+  - Twin Lamps
+PC Rank:
+  - Rank 0
+  - Rank 1
+  - Rank 2
+  - Rank 3
+  - Rank 4
+  - Rank 5
+  - Rank 6
+  - Rank 7
+  - Rank 8
+  - Rank 9
+Function 1:
+  - Function
+  - Global
+  - Local
+  - Journal
+  - Item
+  - Dead
+  - Not ID
+  - Not Faction
+  - Not Class
+  - Not Race
+  - Not Cell
+  - Not Local
+Variable 1:
+Function 2:
+  - Function
+  - Global
+  - Local
+  - Journal
+  - Item
+  - Dead
+  - Not ID
+  - Not Faction
+  - Not Class
+  - Not Race
+  - Not Cell
+  - Not Local
+Variable 2:
+Function 3:
+  - Function
+  - Global
+  - Local
+  - Journal
+  - Item
+  - Dead
+  - Not ID
+  - Not Faction
+  - Not Class
+  - Not Race
+  - Not Cell
+  - Not Local
+Variable 3:
+Function 4:
+  - Function
+  - Global
+  - Local
+  - Journal
+  - Item
+  - Dead
+  - Not ID
+  - Not Faction
+  - Not Class
+  - Not Race
+  - Not Cell
+  - Not Local
+Variable 4:
+Function 5:
+  - Function
+  - Global
+  - Local
+  - Journal
+  - Item
+  - Dead
+  - Not ID
+  - Not Faction
+  - Not Class
+  - Not Race
+  - Not Cell
+  - Not Local
+Variable 5:
+Function 6:
+  - Function
+  - Global
+  - Local
+  - Journal
+  - Item
+  - Dead
+  - Not ID
+  - Not Faction
+  - Not Class
+  - Not Race
+  - Not Cell
+  - Not Local
+Variable 6:
+Result:
+---

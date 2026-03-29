@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"1e125bc11c468c1f","type":"text","text":"# [[Caldera Mine Main Quest.canvas|Caldera Mine Main Quest]]","x":-650,"y":-229,"width":220,"height":87},
+		{"id":"0e1f504af3471ff4","type":"text","text":"*Completed Amulet of Unity quest.*\n\n`GetJournalIndex HT_EddieAmulet 100`\n\n`GetJournalIndex ABcm_HT_Mine 0`","x":-190,"y":-298,"width":210,"height":226,"color":"4"},
+		{"id":"8736fc894da70062","type":"text","text":"Caldera","x":-360,"y":-210,"width":110,"height":50,"color":"2"},
+		{"id":"15cfae1e0345cdad","type":"text","text":"## \" [[Edd Theman]]\nLearned that House Redoran is going to attack Caldera Mine. It's the perfect opportunity to ruin the day for both rival Houses. He can ignite the explosive gases below the mine. If you care, then you can save the miners by setting off their early warning system so they think that they've broken into a poisonous gas pocket. Protocol will be that they evacuate to Caldera. Regardless, he wants you to remove a particular blocked passage to ensure there flooding of the Caldera is complete.\n","x":70,"y":-336,"width":470,"height":303,"color":"3"},
+		{"id":"0edef1d0f46fbe75","type":"text","text":"Journal [[ABcm_HT_Mine#10|ABcm_HT_Mine 10]]","x":70,"y":-13,"width":470,"height":60,"color":"6"},
+		{"id":"154c01d638f7488f","type":"text","text":"Set off warning system","x":660,"y":-392,"width":300,"height":56,"color":"5"},
+		{"id":"8f7d47fdf27bffca","type":"text","text":"Journal [[ABcm_HT_MineWarning#100|ABcm_HT_MineWarning 100]]","x":660,"y":-316,"width":300,"height":60,"color":"6"},
+		{"id":"3c2fdd4065a7206d","type":"text","text":"Remove blockage and exit the mine.","x":1080,"y":-222,"width":240,"height":76,"color":"5"},
+		{"id":"5b0bda02c9260747","type":"text","text":"Journal [[ABcm_HT_Mine#20|ABcm_HT_Mine 20]]","x":1080,"y":-120,"width":240,"height":60,"color":"6"},
+		{"id":"fef1a5ce3342cdf8","type":"text","text":"## \" [[Edd Theman]]\nYou've got a bleeding heart. No one was hurt in the fiery display. Glad you made it out unscathed. Although the smell of brimstone lingers.\n","x":1720,"y":-421,"width":320,"height":171,"color":"3"},
+		{"id":"faecb15990298807","type":"text","text":"## \" [[Edd Theman]]\nNearly a total loss for House Hlaalu, and House Redoran by extension. An impressive display of natural power, don't you think? Glad you made it out unscathed. Although the smell of brimstone lingers.","x":1720,"y":-120,"width":320,"height":226,"color":"3"},
+		{"id":"daeee5c92a28d7a2","type":"text","text":"Journal [[ABcm_HT_Mine#100|ABcm_HT_Mine 100]]","x":1720,"y":-209,"width":320,"height":50,"color":"6"},
+		{"id":"aef6cf09d5bacbfb","type":"text","text":"Player can find Uveran's corpse behind the Temple in Ald-ruhn. They committed suicide, you find a note on their body…","x":2140,"y":-250,"width":300,"height":132,"color":"5"},
+		{"id":"ed648df878cbbfc1","type":"text","text":"`GetJournalIndex ABcm_HT_MineWarning 100`\n\n`GetJournalIndex ABcm_HT_Mine 20`","x":1420,"y":-421,"width":260,"height":171,"color":"4"},
+		{"id":"c3b308efe4501379","type":"text","text":"`GetJournalIndex ABcm_HT_Mine 20`","x":1460,"y":-51,"width":180,"height":89,"color":"4"}
+	],
+	"edges":[
+		{"id":"2921723967374641","fromNode":"0e1f504af3471ff4","fromSide":"right","toNode":"15cfae1e0345cdad","toSide":"left"},
+		{"id":"a6b933220fa04db5","fromNode":"8736fc894da70062","fromSide":"right","toNode":"0e1f504af3471ff4","toSide":"left"},
+		{"id":"6ee0834e7d26f131","fromNode":"15cfae1e0345cdad","fromSide":"bottom","toNode":"0edef1d0f46fbe75","toSide":"top"},
+		{"id":"aba5955b8d2deff9","fromNode":"1e125bc11c468c1f","fromSide":"right","toNode":"8736fc894da70062","toSide":"left"},
+		{"id":"393aaf8c1d068af5","fromNode":"154c01d638f7488f","fromSide":"bottom","toNode":"8f7d47fdf27bffca","toSide":"top"},
+		{"id":"77261c104ba8ec73","fromNode":"15cfae1e0345cdad","fromSide":"right","toNode":"3c2fdd4065a7206d","toSide":"left"},
+		{"id":"d7292f0c5d86c9ec","fromNode":"15cfae1e0345cdad","fromSide":"right","toNode":"154c01d638f7488f","toSide":"left"},
+		{"id":"62749446855ac5c7","fromNode":"154c01d638f7488f","fromSide":"right","toNode":"3c2fdd4065a7206d","toSide":"left"},
+		{"id":"e9fae0bb428f2066","fromNode":"3c2fdd4065a7206d","fromSide":"bottom","toNode":"5b0bda02c9260747","toSide":"top"},
+		{"id":"7bcc8ba5625856f5","fromNode":"fef1a5ce3342cdf8","fromSide":"bottom","toNode":"daeee5c92a28d7a2","toSide":"top"},
+		{"id":"5df6def32fdfd2a2","fromNode":"faecb15990298807","fromSide":"top","toNode":"daeee5c92a28d7a2","toSide":"bottom"},
+		{"id":"2fd01315a883a076","fromNode":"fef1a5ce3342cdf8","fromSide":"right","toNode":"aef6cf09d5bacbfb","toSide":"left"},
+		{"id":"3f8fa0e653463d35","fromNode":"faecb15990298807","fromSide":"right","toNode":"aef6cf09d5bacbfb","toSide":"left"},
+		{"id":"fa73e78d8a20b794","fromNode":"c3b308efe4501379","fromSide":"right","toNode":"faecb15990298807","toSide":"left"},
+		{"id":"9a3f02bfe014ec47","fromNode":"ed648df878cbbfc1","fromSide":"right","toNode":"fef1a5ce3342cdf8","toSide":"left"},
+		{"id":"8a25fb0ab2d31044","fromNode":"3c2fdd4065a7206d","fromSide":"right","toNode":"ed648df878cbbfc1","toSide":"left"},
+		{"id":"1233d650dc09bf03","fromNode":"3c2fdd4065a7206d","fromSide":"right","toNode":"c3b308efe4501379","toSide":"left"}
+	]
+}

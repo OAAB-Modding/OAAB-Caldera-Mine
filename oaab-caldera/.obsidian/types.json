@@ -1,0 +1,21 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Race": "multitext",
+    "Sex": "multitext",
+    "Class": "multitext",
+    "Faction": "multitext",
+    "Rank": "multitext",
+    "PC Faction": "multitext",
+    "PC Rank": "multitext",
+    "Function 1": "multitext",
+    "Function 2": "multitext",
+    "Function 3": "multitext",
+    "Function 4": "multitext",
+    "Function 5": "multitext",
+    "Function 6": "multitext",
+    "Disposition": "number"
+  }
+}

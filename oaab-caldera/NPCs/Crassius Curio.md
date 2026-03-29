@@ -1,0 +1,1 @@
+https://en.uesp.net/wiki/Morrowind:Crassius_Curio

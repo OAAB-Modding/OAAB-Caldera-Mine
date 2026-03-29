@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"33511c701d34ac78","type":"file","file":"Caldera Mine Main Quest/House Redoran/HR - Evidence of Corruption.md","x":-680,"y":220,"width":380,"height":166,"color":"3"},
+		{"id":"e2ca984be93142db","type":"file","file":"Assets/MW-banner-House_Redoran.png","x":-840,"y":163,"width":140,"height":280},
+		{"id":"6076afdc18a86cda","type":"file","file":"Caldera Mine Main Quest/House Telvanni/HT - Amulet of Unity.md","x":-680,"y":640,"width":380,"height":160,"color":"3"},
+		{"id":"ee58f081a0171acd","type":"file","file":"Assets/MW-banner-House_Telvanni.png","x":-840,"y":580,"width":140,"height":280},
+		{"id":"6783c6df90c58823","type":"file","file":"Caldera Mine Main Quest/House Redoran/HR Caldera Mine/HR Caldera Mine.md","x":-240,"y":203,"width":560,"height":200,"color":"5"},
+		{"id":"a8b98f56b3188610","type":"file","file":"Caldera Mine Main Quest/House Telvanni/HT Caldera Mine/HT Caldera Mine.md","x":-240,"y":550,"width":560,"height":340,"color":"5"},
+		{"id":"5e95c594fd846f98","type":"file","file":"Caldera Mine Main Quest/House Hlaalu/HH Caldera Mine/HH Caldera Mine.md","x":-240,"y":-223,"width":560,"height":202,"color":"5"},
+		{"id":"0565fa54dd9321d9","type":"file","file":"Caldera Mine Main Quest/House Hlaalu/HH - Shipment of Ebony.md","x":-680,"y":-212,"width":380,"height":180,"color":"3"},
+		{"id":"ed942a4e14ef815e","type":"file","file":"Assets/MW-banner-House_Hlaalu.png","x":-840,"y":-262,"width":140,"height":280},
+		{"id":"3916ecdf446f86fb","type":"file","file":"Caldera Mine Main Quest/House Hlaalu/HH Mine - Expand Operations (Uveran).md","x":901,"y":-332,"width":300,"height":240,"color":"5"},
+		{"id":"b9066d54409c9e20","type":"file","file":"Caldera Mine Main Quest/House Hlaalu/HH Mine - Expand Operations (Alt).md","x":901,"y":-4,"width":300,"height":180,"color":"5"},
+		{"id":"5066f0ea84236b22","type":"file","file":"Caldera Mine Main Quest/House Redoran/HR Mine - Khuul Trade Route.md","x":901,"y":258,"width":300,"height":180,"color":"5"},
+		{"id":"daa76023dc3ffaa1","type":"file","file":"Caldera Mine Main Quest/Uveran Family/Uveran Family.md","x":440,"y":-42,"width":320,"height":256,"color":"5"}
+	],
+	"edges":[
+		{"id":"8cd98ff0b5be6913","fromNode":"0565fa54dd9321d9","fromSide":"right","toNode":"5e95c594fd846f98","toSide":"left"},
+		{"id":"f0c15f714296e30e","fromNode":"33511c701d34ac78","fromSide":"right","toNode":"6783c6df90c58823","toSide":"left"},
+		{"id":"80aa593bca4d0d09","fromNode":"6076afdc18a86cda","fromSide":"right","toNode":"a8b98f56b3188610","toSide":"left"},
+		{"id":"c536dff01efcbea9","fromNode":"6783c6df90c58823","fromSide":"right","toNode":"daa76023dc3ffaa1","toSide":"left"},
+		{"id":"781081ceeb2fc288","fromNode":"5e95c594fd846f98","fromSide":"right","toNode":"daa76023dc3ffaa1","toSide":"left"},
+		{"id":"83f1fffb2376fbfc","fromNode":"daa76023dc3ffaa1","fromSide":"right","toNode":"5066f0ea84236b22","toSide":"left"},
+		{"id":"a15a74563d4a9d26","fromNode":"daa76023dc3ffaa1","fromSide":"right","toNode":"b9066d54409c9e20","toSide":"left"},
+		{"id":"64b3f0faef71ac00","fromNode":"daa76023dc3ffaa1","fromSide":"right","toNode":"3916ecdf446f86fb","toSide":"left"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

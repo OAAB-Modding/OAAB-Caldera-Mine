@@ -1,0 +1,1 @@
+Establish new trade route through Khuul to avoid House Hlaalu in Balmora
