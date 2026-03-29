@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/Test/restore the power of the Skaal 001.md",
+                "file": "Templates/Topic Info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "restore the power of the Skaal 001"
+              "title": "Topic Info"
             }
           }
         ]
@@ -171,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Topics/Test/restore the power of the Skaal 001.md"
+                "file": "Templates/Topic Info.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for restore the power of the Skaal 001"
+              "title": "File properties for Topic Info"
             }
           }
         ],
@@ -197,23 +197,24 @@
   },
   "active": "83f4561f832a6fd1",
   "lastOpenFiles": [
+    "Resources/Topic Info - Base Properties.md",
+    "Topics/Test/restore the power of the Skaal 001.md",
+    "Quests",
     "Topics/Test/Orders 001.md",
     "Topics/Test/one more task 001.md",
     "Topics/Test/necromancy 002.md",
     "Topics/Test/necromancy 001.md",
     "Topics/Test/Abolitionists 001.md",
-    "Caldera Mine Main Quest/House Redoran/HR Caldera Mine/HR Caldera Mine.canvas",
-    "Topics/Test/restore the power of the Skaal 001.md",
+    "Quests/Caldera Mine Main Quest/House Redoran/HR Caldera Mine/HR Caldera Mine.canvas",
     "Templates/Topic Info.md",
-    "Resources/Topic Info - Base Properties.md",
     "Topics/Caldera mining contracts/001.md",
     "Topics/Test",
     "Resources",
     "Templates",
     "NPCs/Garisa Llethri.md",
-    "Caldera Mine Main Quest/House Redoran/HR Caldera Mine/HR Caldera Mine.md",
+    "Quests/Caldera Mine Main Quest/House Redoran/HR Caldera Mine/HR Caldera Mine.md",
     "Untitled.base",
-    "Caldera Mine Main Quest/Caldera Mine Main Quest.canvas",
+    "Quests/Caldera Mine Main Quest/Caldera Mine Main Quest.canvas",
     "Journal/ABcm_UveranTerenu.md",
     "Topics/Caldera mining contracts",
     "Topics",
@@ -225,18 +226,17 @@
     "Journal/ABcm_HR_Mine.md",
     "Journal/ABcm_HH_MineReport.md",
     "Journal/ABcm_HH_Mine.md",
-    "Caldera Mine Main Quest/House Telvanni/HT Caldera Mine/HT Caldera Mine.canvas",
-    "Caldera Mine Main Quest/House Hlaalu/HH Caldera Mine/HH Caldera Mine.md",
-    "Caldera Mine Main Quest/House Hlaalu/HH Caldera Mine/HH Caldera Mine.canvas",
-    "Caldera Mine Main Quest/House Redoran/HR Mine - Khuul Trade Route.md",
+    "Quests/Caldera Mine Main Quest/House Telvanni/HT Caldera Mine/HT Caldera Mine.canvas",
+    "Quests/Caldera Mine Main Quest/House Hlaalu/HH Caldera Mine/HH Caldera Mine.md",
+    "Quests/Caldera Mine Main Quest/House Hlaalu/HH Caldera Mine/HH Caldera Mine.canvas",
+    "Quests/Caldera Mine Main Quest/House Redoran/HR Mine - Khuul Trade Route.md",
     "Caldera Mine Main Quest/House Redoran/HR Mine - The Attack.md",
-    "Caldera Mine Main Quest/House Telvanni/HT Caldera Mine/HT Caldera Mine.md",
-    "Caldera Mine Main Quest/House Telvanni/HT Caldera Mine",
-    "Caldera Mine Main Quest/Uveran Family/Uveran Family.canvas",
-    "Caldera Mine Main Quest/Uveran Family/Uveran Family.md",
-    "Caldera Mine Main Quest/Uveran Family",
-    "Caldera Mine Main Quest/House Redoran/HR Caldera Mine",
-    "Journal",
+    "Quests/Caldera Mine Main Quest/House Telvanni/HT Caldera Mine/HT Caldera Mine.md",
+    "Quests/Caldera Mine Main Quest/House Telvanni/HT Caldera Mine",
+    "Quests/Caldera Mine Main Quest/Uveran Family/Uveran Family.canvas",
+    "Quests/Caldera Mine Main Quest/Uveran Family/Uveran Family.md",
+    "Quests/Caldera Mine Main Quest/Uveran Family",
+    "Quests/Caldera Mine Main Quest/House Redoran/HR Caldera Mine",
     "Assets/MW-place-Caldera.jpg",
     "Assets/MW-npc-Garisa_Llethri.jpg",
     "Assets/MW-npc-Edd__Fast_Eddie__Theman.jpg",
