@@ -1,5 +1,12 @@
 ---
+Type:
+  - Greeting
+  - Journal
+  - Persuasion
+  - Topic
+  - Voice
 ID: garisa llethri
+PrevID:
 Disposition:
 Race:
   - Redguard
@@ -180,89 +187,5 @@ PC Rank:
   - Rank 7
   - Rank 8
   - Rank 9
-Function 1:
-  - Function
-  - Global
-  - Local
-  - Journal
-  - Item
-  - Dead
-  - Not ID
-  - Not Faction
-  - Not Class
-  - Not Race
-  - Not Cell
-  - Not Local
-Variable 1:
-Function 2:
-  - Function
-  - Global
-  - Local
-  - Journal
-  - Item
-  - Dead
-  - Not ID
-  - Not Faction
-  - Not Class
-  - Not Race
-  - Not Cell
-  - Not Local
-Variable 2:
-Function 3:
-  - Function
-  - Global
-  - Local
-  - Journal
-  - Item
-  - Dead
-  - Not ID
-  - Not Faction
-  - Not Class
-  - Not Race
-  - Not Cell
-  - Not Local
-Variable 3:
-Function 4:
-  - Function
-  - Global
-  - Local
-  - Journal
-  - Item
-  - Dead
-  - Not ID
-  - Not Faction
-  - Not Class
-  - Not Race
-  - Not Cell
-  - Not Local
-Variable 4:
-Function 5:
-  - Function
-  - Global
-  - Local
-  - Journal
-  - Item
-  - Dead
-  - Not ID
-  - Not Faction
-  - Not Class
-  - Not Race
-  - Not Cell
-  - Not Local
-Variable 5:
-Function 6:
-  - Function
-  - Global
-  - Local
-  - Journal
-  - Item
-  - Dead
-  - Not ID
-  - Not Faction
-  - Not Class
-  - Not Race
-  - Not Cell
-  - Not Local
-Variable 6:
 Result:
 ---

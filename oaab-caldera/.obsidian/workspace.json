@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Greetings/test/Greeting 1 ~1 1.md",
+                "file": "Topics/Test/Akatosh ~1.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Greeting 1 ~1 1"
+              "title": "Akatosh ~1"
             }
           }
         ]
@@ -171,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Greetings/test/Greeting 1 ~1 1.md"
+                "file": "Topics/Test/Akatosh ~1.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Greeting 1 ~1 1"
+              "title": "File properties for Akatosh ~1"
             }
           }
         ],
@@ -197,25 +197,28 @@
   },
   "active": "d984f11e972105cb",
   "lastOpenFiles": [
-    "Greetings/test/Greeting 1 ~1.md",
-    "Greetings/test/Greeting 1 ~1 1.md",
-    "obsidianDialogueTest_MarkdownFiles.7z",
-    "Test.7z",
-    "Topics/Test/Test.7z",
-    "Greetings/test/Greeting 1 3746148869655778.md",
-    "Topics/Test/Akatosh 20160125141604927941.md",
-    "Topics/Test/Akatosh ~1.md",
     "Topics/Test/Akatosh ~2.md",
-    "Topics/Test/test topic ~3.md",
-    "Topics/Test/test topic ~2.md",
+    "Topics/Test/Akatosh 20160125141604927941.md",
     "Topics/Test/test topic ~1.md",
-    "Templates/Topic Info.md",
+    "Topics/Test/test topic ~2.md",
+    "Topics/Test/test topic ~3.md",
+    "Topics/Test/Akatosh ~1.md",
     "Journal/test/test journal ~3.md",
     "Journal/test/test journal ~2.md",
     "Journal/test/test journal ~1.md",
     "Journal/test/11111 test journal 128914348295877816.md",
     "Journal/test/11111 test journal ~1.md",
+    "Greetings/test/Greeting 1 3746148869655778.md",
+    "Greetings/test/Greeting 1 ~1.md",
+    "Templates/Voice Info.md",
     "Templates/Journal Entry.md",
+    "Templates/Dialogue Info.md",
+    "Templates/Dialogue Function.md",
+    "Resources/Dialogue Function - Base Properties.md",
+    "Resources/Dialogue Info - Base Properties.md",
+    "obsidianDialogueTest_MarkdownFiles.7z",
+    "Test.7z",
+    "Topics/Test/Test.7z",
     "oaab-caldera.7z",
     "test topic ~3.md",
     "test topic ~2.md",
@@ -223,10 +226,6 @@
     "Akatosh ~2.md",
     "Akatosh ~1.md",
     "test journal ~3.md",
-    "test journal ~2.md",
-    "test journal ~1.md",
-    "11111 test journal ~2.md",
-    "11111 test journal ~1.md",
     "Pasted image 20260331154447.png",
     "test markldown files.7z",
     "Journal/test",

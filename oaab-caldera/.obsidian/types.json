@@ -22,6 +22,11 @@
     "Quest Name": "checkbox",
     "Restart": "checkbox",
     "Index": "number",
-    "BeforeID": "number"
+    "BeforeID": "number",
+    "Function": "multitext",
+    "FunctionIndex": "number",
+    "PrevID": "number",
+    "Type": "multitext",
+    "DiagID": "number"
   }
 }
