@@ -27,6 +27,8 @@
     "FunctionIndex": "number",
     "PrevID": "number",
     "Type": "multitext",
-    "DiagID": "number"
+    "DiagID": "number",
+    "File Type": "multitext",
+    "Masters": "multitext"
   }
 }

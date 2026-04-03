@@ -188,4 +188,7 @@ PC Rank:
   - Rank 8
   - Rank 9
 Result:
+File Type:
+  - ESM
+  - ESP
 ---

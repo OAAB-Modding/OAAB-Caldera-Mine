@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Akatosh ~1"
             }
+          },
+          {
+            "id": "b429c01e90bd4869",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "header.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "header"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Topics/Test/Akatosh ~1.md"
+                "file": "header.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Akatosh ~1"
+              "title": "File properties for header"
             }
           }
         ],
@@ -195,27 +210,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "d984f11e972105cb",
+  "active": "b429c01e90bd4869",
   "lastOpenFiles": [
+    "Greetings/test/Greeting 1 ~1.md",
+    "Greetings/test/Greeting 1 3746148869655778.md",
+    "Journal/test/test journal ~3.md",
+    "Topics/Test/Akatosh ~1.md",
     "Topics/Test/Akatosh ~2.md",
     "Topics/Test/Akatosh 20160125141604927941.md",
     "Topics/Test/test topic ~1.md",
     "Topics/Test/test topic ~2.md",
     "Topics/Test/test topic ~3.md",
-    "Topics/Test/Akatosh ~1.md",
-    "Journal/test/test journal ~3.md",
+    "header.md",
+    "Resources/Dialogue Info - Base Properties.md",
+    "Resources/Dialogue Function - Base Properties.md",
     "Journal/test/test journal ~2.md",
     "Journal/test/test journal ~1.md",
     "Journal/test/11111 test journal 128914348295877816.md",
     "Journal/test/11111 test journal ~1.md",
-    "Greetings/test/Greeting 1 3746148869655778.md",
-    "Greetings/test/Greeting 1 ~1.md",
     "Templates/Voice Info.md",
     "Templates/Journal Entry.md",
     "Templates/Dialogue Info.md",
     "Templates/Dialogue Function.md",
-    "Resources/Dialogue Function - Base Properties.md",
-    "Resources/Dialogue Info - Base Properties.md",
     "obsidianDialogueTest_MarkdownFiles.7z",
     "Test.7z",
     "Topics/Test/Test.7z",
