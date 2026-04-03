@@ -1,2 +1,0 @@
-After becoming Arch-Magister, Fast Eddie tells you he's learned that House Redoran is going to attack Caldera Mine. He says it's the perfect opportunity to ruin the day for both rival Houses. He offers to ignite the explosive gases below the mine. He suggests that, if you care, then you can save the miners by setting off their early warning system (what do they use for a "canary alarm" in Vvardenfell mines?). So they think that they've broken into a poisonous gas pocket. Protocol will be that they evacuate to Caldera.
-## [[HT Caldera Mine.canvas|Outline]]

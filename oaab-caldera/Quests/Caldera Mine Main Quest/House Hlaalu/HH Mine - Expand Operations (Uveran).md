@@ -1,1 +1,0 @@
-Expand operations. Possible abolitionist route to replace slaves with paid workers. (need to see what Brother Juniper's Twin Lamps does with Caldera Mine).

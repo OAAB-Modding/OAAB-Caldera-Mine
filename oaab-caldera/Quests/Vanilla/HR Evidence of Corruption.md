@@ -1,0 +1,1 @@
+### [Vanilla quest](https://en.uesp.net/wiki/Morrowind:Evidence_of_Corruption)

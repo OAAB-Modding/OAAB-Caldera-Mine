@@ -1,0 +1,141 @@
+{
+	"nodes":[
+		{"id":"df1e5828de68817a","type":"text","text":"Uveran family","x":-240,"y":-72,"width":160,"height":50,"color":"2"},
+		{"id":"105da2e6415a6756","type":"text","text":"`GetJournalIndex ABcm_HR_Mine 100`\n\n`GetDeadCount \"rirns uveran\" == 0`\nOR\n`GetDeadCount \"terenu uveran\" == 0`\nOR\n`GetDeadCount \"vilvyni uveran\" == 0`","x":-40,"y":-154,"width":340,"height":214,"color":"4"},
+		{"id":"3e12a90c005bf1cb","type":"text","text":"## \" [[Uveran]]\nNow that my family is poised from a position of power, I would like to gather allies around myself.\n","x":360,"y":-149,"width":280,"height":203,"color":"3"},
+		{"id":"c65c25c7ca39d57b","type":"text","text":"Journal [[ABcm_UveranFamily#10|ABcm_UveranFamily 10]]","x":360,"y":79,"width":280,"height":50,"color":"6"},
+		{
+			"id":"9ba3af752b4cd659",
+			"type":"text",
+			"text":"# HR Caldera Mine",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-840,
+			"y":-30,
+			"width":480,
+			"height":180
+		},
+		{
+			"id":"c4cca99ae9c84f34",
+			"type":"file",
+			"file":"Quests/Caldera Mine Main Quest/HR Caldera Mine.canvas",
+			"styleAttributes":{"border":"invisible"},
+			"x":-840,
+			"y":20,
+			"width":480,
+			"height":130
+		},
+		{
+			"id":"8a8b16873ed4f366",
+			"type":"text",
+			"text":"# HH Caldera Mine",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-840,
+			"y":-264,
+			"width":480,
+			"height":180
+		},
+		{
+			"id":"ac8d2e85a503f62c",
+			"type":"file",
+			"file":"Quests/Caldera Mine Main Quest/HH Caldera Mine.canvas",
+			"styleAttributes":{"border":"invisible"},
+			"x":-840,
+			"y":-224,
+			"width":480,
+			"height":140
+		},
+		{
+			"id":"71678eca162a7401",
+			"type":"text",
+			"text":"# HH Caldera Mine - Expand Operations\nPossible abolitionist route to replace slaves with paid workers. (need to see what Brother Juniper's Twin Lamps does with Caldera Mine).",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":820,
+			"y":-502,
+			"width":500,
+			"height":404
+		},
+		{
+			"id":"d5883bb240d6fdfc",
+			"type":"file",
+			"file":"Quests/Caldera Mine Main Quest/HH Caldera Mine - Expand Operations.canvas",
+			"styleAttributes":{"border":"invisible"},
+			"x":843,
+			"y":-382,
+			"width":455,
+			"height":284
+		},
+		{
+			"id":"4fe513f38ffeb1be",
+			"type":"text",
+			"text":"# HR Caldera Mine - Khuul Trade Route\nEstablish new trade route through Khuul to avoid House Hlaalu in Balmora",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":820,
+			"y":-13,
+			"width":500,
+			"height":404
+		},
+		{
+			"id":"9184f961948c5240",
+			"type":"file",
+			"file":"Quests/Caldera Mine Main Quest/HR Caldera Mine - Khuul Trade Route.canvas",
+			"styleAttributes":{"border":"invisible"},
+			"x":843,
+			"y":129,
+			"width":455,
+			"height":240
+		}
+	],
+	"edges":[
+		{"id":"f33537aece8b92a1","fromNode":"105da2e6415a6756","fromSide":"right","toNode":"3e12a90c005bf1cb","toSide":"left"},
+		{"id":"13004ae64e87722b","fromNode":"df1e5828de68817a","fromSide":"right","toNode":"105da2e6415a6756","toSide":"left"},
+		{"id":"37708426fc785385","fromNode":"3e12a90c005bf1cb","fromSide":"bottom","toNode":"c65c25c7ca39d57b","toSide":"top"},
+		{
+			"id":"be0b29a97b1ef4e6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9ba3af752b4cd659",
+			"fromSide":"right",
+			"toNode":"df1e5828de68817a",
+			"toSide":"left"
+		},
+		{
+			"id":"d164b6fd3536eaac",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8a8b16873ed4f366",
+			"fromSide":"right",
+			"toNode":"df1e5828de68817a",
+			"toSide":"left"
+		},
+		{
+			"id":"00beb7f525ec1801",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3e12a90c005bf1cb",
+			"fromSide":"right",
+			"toNode":"4fe513f38ffeb1be",
+			"toSide":"left"
+		},
+		{
+			"id":"e2c7208399180f82",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3e12a90c005bf1cb",
+			"fromSide":"right",
+			"toNode":"71678eca162a7401",
+			"toSide":"left"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

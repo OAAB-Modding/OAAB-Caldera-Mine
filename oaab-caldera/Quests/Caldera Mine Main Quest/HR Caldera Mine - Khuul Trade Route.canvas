@@ -1,0 +1,52 @@
+{
+	"nodes":[
+		{
+			"id":"a941f6c5c3810fa8",
+			"type":"text",
+			"text":"# Uveran Family\nUveran will send you to convince their relatives to join him in rebuilding their family fortune and honor. Not all may be willing to join since they're bandits.",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-190,
+			"y":-137,
+			"width":380,
+			"height":275
+		},
+		{
+			"id":"d1d7b4287dd4ba9a",
+			"type":"file",
+			"file":"Quests/Caldera Mine Main Quest/Uveran Family.canvas",
+			"styleAttributes":{"border":"invisible"},
+			"x":-190,
+			"y":25,
+			"width":380,
+			"height":113
+		},
+		{
+			"id":"6249687a98491481",
+			"type":"text",
+			"text":"Establish new trade route through Khuul to avoid House Hlaalu in Balmora",
+			"styleAttributes":{},
+			"x":260,
+			"y":-50,
+			"width":240,
+			"height":102,
+			"color":"5"
+		}
+	],
+	"edges":[
+		{
+			"id":"a4f360314abd4a2e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a941f6c5c3810fa8",
+			"fromSide":"right",
+			"toNode":"6249687a98491481",
+			"toSide":"left"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

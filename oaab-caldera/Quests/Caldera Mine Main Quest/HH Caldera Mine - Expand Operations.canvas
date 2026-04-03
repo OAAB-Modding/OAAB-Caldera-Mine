@@ -1,0 +1,52 @@
+{
+	"nodes":[
+		{"id":"8be095e9e20fd8f0","type":"text","text":"Find report in Caldera Mine","x":-480,"y":-31,"width":300,"height":60,"color":"5"},
+		{"id":"ba53d87f42179da6","type":"text","text":"Journal [[ABcm_HH_MineReport#10|ABcm_HH_MineReport 10]]","x":-480,"y":59,"width":300,"height":60,"color":"6"},
+		{"id":"639de40594971ff3","type":"text","text":"`GetJournalIndex ABcm_HH_Mine 40`","x":-80,"y":-184,"width":180,"height":86,"color":"4"},
+		{"id":"0152cf0260ccbc48","type":"text","text":"`GetJournalIndex ABcm_HH_Mine 45`","x":-80,"y":99,"width":180,"height":86,"color":"4"},
+		{"id":"ede43b507bcfb4a1","type":"text","text":"## \" [[Uveran]]\nExpand operations. Possible abolitionist route to replace slaves with paid workers. (need to see what Brother Juniper's Twin Lamps does with Caldera Mine).","x":140,"y":-251,"width":340,"height":220,"color":"3"},
+		{"id":"30da9576ee0b4bdc","type":"text","text":"## \" [[Crassius Curio]]\nExpand operations. (Same quest, but with councilor in charge of Caldera if Uveran is killed)\n\n","x":140,"y":32,"width":340,"height":220,"color":"3"},
+		{
+			"id":"225826784245d4da",
+			"type":"text",
+			"text":"# Uveran Family\nUveran will send you to convince their relatives to join him in rebuilding their family fortune and honor. Not all may be willing to join since they're bandits.",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-940,
+			"y":-138,
+			"width":380,
+			"height":275
+		},
+		{
+			"id":"faf2c23aaff9de17",
+			"type":"file",
+			"file":"Quests/Caldera Mine Main Quest/Uveran Family.canvas",
+			"styleAttributes":{"border":"invisible"},
+			"x":-940,
+			"y":24,
+			"width":380,
+			"height":113
+		}
+	],
+	"edges":[
+		{"id":"466da6e16d49ed6d","fromNode":"8be095e9e20fd8f0","fromSide":"bottom","toNode":"ba53d87f42179da6","toSide":"top"},
+		{"id":"53c2d464ccd01b5f","fromNode":"8be095e9e20fd8f0","fromSide":"right","toNode":"639de40594971ff3","toSide":"left"},
+		{"id":"05a80e20f8b65a65","fromNode":"8be095e9e20fd8f0","fromSide":"right","toNode":"0152cf0260ccbc48","toSide":"left"},
+		{"id":"3384a6be1407be5f","fromNode":"639de40594971ff3","fromSide":"right","toNode":"ede43b507bcfb4a1","toSide":"left"},
+		{"id":"fcc84dc59835b159","fromNode":"0152cf0260ccbc48","fromSide":"right","toNode":"30da9576ee0b4bdc","toSide":"left"},
+		{
+			"id":"93de4a0551c91d92",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"225826784245d4da",
+			"fromSide":"right",
+			"toNode":"8be095e9e20fd8f0",
+			"toSide":"left"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

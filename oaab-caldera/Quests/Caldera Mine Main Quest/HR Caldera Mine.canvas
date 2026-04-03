@@ -66,25 +66,54 @@
 		{"id":"c71593640f34eede","type":"text","text":"StartScript\n*Uverans will move into the Governor's Hall. House Hlaalu guards will be replaced with House Redoran.*\n\nJournal [[ABcm_HR_Mine#100|ABcm_HR_Mine 100]]","x":7740,"y":120,"width":420,"height":140,"color":"6"},
 		{"id":"44a3047c914f9a5d","type":"text","text":"`GetJournalIndex ABcm_HR_Mine 100`","x":8260,"y":-174,"width":200,"height":84,"color":"4"},
 		{"id":"79c46117e006fa4f","type":"text","text":"## \" [[Garisa Llethri]]\nThe contract for mining the ebony deposit under Caldera is now ours. Thanks to you, %PCName.","x":8500,"y":-216,"width":240,"height":169,"color":"3"},
-		{"id":"b98ccdd2b39e4bcf","type":"text","text":"# [[Uveran Family.canvas|Uveran Family]]","x":8780,"y":-38,"width":220,"height":67},
-		{
-			"id":"a204bb460bda0e10",
-			"type":"text",
-			"text":"# [[Caldera Mine Main Quest.canvas|Caldera Mine Main Quest]]",
-			"styleAttributes":{
-				"shape":null,
-				"border":null,
-				"textAlign":"center"
-			},
-			"x":-940,
-			"y":163,
-			"width":220,
-			"height":87
-		},
 		{"id":"edf86b2ecbb58263","type":"text","text":"`GetJournalIndex ABcm_HR_Mine 100`","x":8260,"y":101,"width":200,"height":84,"color":"4"},
 		{"id":"e1e70d53b4bb8cba","type":"text","text":"## \" [[Uveran]]\nThis is an important step for the Uveran family. And in no small thanks to your interventions.","x":8500,"y":59,"width":240,"height":169,"color":"3"},
 		{"id":"ab9ee3416f93bfa4","type":"text","text":"AddTopic \"Uveran family\"","x":8500,"y":260,"width":240,"height":60,"color":"6"},
-		{"id":"8c93050d4428482c","type":"file","file":"Topics/Caldera mining contracts/001.md","subpath":"#\" Garisa Llethri","x":20,"y":105,"width":280,"height":203,"color":"3"}
+		{"id":"8c93050d4428482c","type":"file","file":"Topics/Caldera mining contracts 1.md","subpath":"#\" Garisa Llethri","x":20,"y":105,"width":280,"height":203,"color":"3"},
+		{
+			"id":"de76f7d18a4695de",
+			"type":"text",
+			"text":"# Caldera Mine Main Quest\nEach Great House has its own quest which impacts the mine.",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-1180,
+			"y":29,
+			"width":480,
+			"height":355
+		},
+		{
+			"id":"5a52673fa785ffdf",
+			"type":"file",
+			"file":"Quests/Caldera Mine Main Quest/Caldera Mine Main Quest.canvas",
+			"styleAttributes":{"border":"invisible"},
+			"x":-1140,
+			"y":129,
+			"width":400,
+			"height":255
+		},
+		{
+			"id":"62a93b780ba9eb09",
+			"type":"text",
+			"text":"# Uveran Family\nUveran will send you to convince their relatives to join him in rebuilding their family fortune and honor. Not all may be willing to join since they're bandits.",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":8800,
+			"y":-142,
+			"width":380,
+			"height":275
+		},
+		{
+			"id":"633c90dd3dc6096b",
+			"type":"file",
+			"file":"Quests/Caldera Mine Main Quest/Uveran Family.canvas",
+			"styleAttributes":{"border":"invisible"},
+			"x":8800,
+			"y":20,
+			"width":380,
+			"height":113
+		}
 	],
 	"edges":[
 		{
@@ -166,8 +195,6 @@
 		{"id":"fb3ec9e34a887dbb","fromNode":"2437c80e33cce7d1","fromSide":"bottom","toNode":"c71593640f34eede","toSide":"top"},
 		{"id":"397aabe318773840","fromNode":"2437c80e33cce7d1","fromSide":"right","toNode":"44a3047c914f9a5d","toSide":"left"},
 		{"id":"e2fe2b601e3aba8f","fromNode":"44a3047c914f9a5d","fromSide":"right","toNode":"79c46117e006fa4f","toSide":"left"},
-		{"id":"2cda45b8ccd13614","fromNode":"2437c80e33cce7d1","fromSide":"right","toNode":"b98ccdd2b39e4bcf","toSide":"left"},
-		{"id":"10f5274560e6d2a5","fromNode":"a204bb460bda0e10","fromSide":"right","toNode":"201e92d13d074334","toSide":"left"},
 		{"id":"63e076f9e04e82ed","fromNode":"edf86b2ecbb58263","fromSide":"right","toNode":"e1e70d53b4bb8cba","toSide":"left"},
 		{"id":"d1ccb6bd11094b6a","fromNode":"2437c80e33cce7d1","fromSide":"right","toNode":"edf86b2ecbb58263","toSide":"left"},
 		{"id":"13c1cba015ce2b75","fromNode":"e1e70d53b4bb8cba","fromSide":"bottom","toNode":"ab9ee3416f93bfa4","toSide":"top"},
@@ -197,6 +224,24 @@
 			"fromSide":"bottom",
 			"toNode":"4438d553d5ae78af",
 			"toSide":"top"
+		},
+		{
+			"id":"45ff2516470cbce0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"de76f7d18a4695de",
+			"fromSide":"right",
+			"toNode":"201e92d13d074334",
+			"toSide":"left"
+		},
+		{
+			"id":"715ac450ec14af41",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2437c80e33cce7d1",
+			"fromSide":"right",
+			"toNode":"62a93b780ba9eb09",
+			"toSide":"left"
 		}
 	],
 	"metadata":{

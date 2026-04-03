@@ -1,1 +1,0 @@
-Expand operations. (Same quest, but with councilor in charge of Caldera if Uveran is killed)

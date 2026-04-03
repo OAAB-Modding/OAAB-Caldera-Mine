@@ -62,7 +62,51 @@
 		{"id":"b17db4498080071b","type":"text","text":"`GetJournalIndex ABcm_HH_Mine 70`","x":7090,"y":246,"width":180,"height":86,"color":"4"},
 		{"id":"9f37e74c215f2f35","type":"text","text":"## \" [[Uveran]]\nThank you for protecting my ancestral home. You should let Crassius Curio know what happened here.","x":7380,"y":57,"width":340,"height":138,"color":"3"},
 		{"id":"b3d2390837fcf1f8","type":"text","text":"## \" [[Crassius Curio]]\nThese acts of aggression combined with the discovery of the surveyor’s journal and the surviving Uveran relinquishing their claim to House Hlaalu defeats the House Redoran designs on the mine.\n\n","x":7820,"y":185,"width":340,"height":208,"color":"3"},
-		{"id":"4bc65b8144a4aee5","type":"text","text":"Journal [[ABcm_HH_Mine#100|ABcm_HH_Mine 100]]","x":7820,"y":417,"width":340,"height":60,"color":"6"}
+		{"id":"4bc65b8144a4aee5","type":"text","text":"Journal [[ABcm_HH_Mine#100|ABcm_HH_Mine 100]]","x":7820,"y":417,"width":340,"height":60,"color":"6"},
+		{
+			"id":"4f5891a5509e9ab9",
+			"type":"text",
+			"text":"# Caldera Mine Main Quest\nEach Great House has its own quest which impacts the mine.",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-1140,
+			"y":-202,
+			"width":480,
+			"height":355
+		},
+		{
+			"id":"3a9c223e55e16905",
+			"type":"file",
+			"file":"Quests/Caldera Mine Main Quest/Caldera Mine Main Quest.canvas",
+			"styleAttributes":{"border":"invisible"},
+			"x":-1100,
+			"y":-102,
+			"width":400,
+			"height":255
+		},
+		{
+			"id":"9e878041c85705fc",
+			"type":"text",
+			"text":"# Uveran Family\nUveran will send you to convince their relatives to join him in rebuilding their family fortune and honor. Not all may be willing to join since they're bandits.",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":8240,
+			"y":151,
+			"width":380,
+			"height":275
+		},
+		{
+			"id":"e2d732f5013e2953",
+			"type":"file",
+			"file":"Quests/Caldera Mine Main Quest/Uveran Family.canvas",
+			"styleAttributes":{"border":"invisible"},
+			"x":8240,
+			"y":289,
+			"width":380,
+			"height":137
+		}
 	],
 	"edges":[
 		{"id":"c20e0e407ee7d0a7","fromNode":"eeaac57d2381456e","fromSide":"right","toNode":"e5726f9662f60478","toSide":"left"},
@@ -133,6 +177,28 @@
 		{"id":"919c6d757d266794","fromNode":"b3d2390837fcf1f8","fromSide":"bottom","toNode":"4bc65b8144a4aee5","toSide":"top"},
 		{"id":"3f22a148eb65227b","fromNode":"cdc78791bbcb5d9b","fromSide":"right","toNode":"b17db4498080071b","toSide":"left"},
 		{"id":"bfce97e5004296ac","fromNode":"b17db4498080071b","fromSide":"right","toNode":"9f37e74c215f2f35","toSide":"left"},
-		{"id":"fd0b131bee3c9207","fromNode":"b17db4498080071b","fromSide":"right","toNode":"b3d2390837fcf1f8","toSide":"left"}
-	]
+		{"id":"fd0b131bee3c9207","fromNode":"b17db4498080071b","fromSide":"right","toNode":"b3d2390837fcf1f8","toSide":"left"},
+		{
+			"id":"7cc6ac54666ebbb6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4f5891a5509e9ab9",
+			"fromSide":"right",
+			"toNode":"eeaac57d2381456e",
+			"toSide":"left"
+		},
+		{
+			"id":"6d9aa63195f8fa2c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b3d2390837fcf1f8",
+			"fromSide":"right",
+			"toNode":"9e878041c85705fc",
+			"toSide":"left"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

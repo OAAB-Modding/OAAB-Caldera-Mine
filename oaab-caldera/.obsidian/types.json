@@ -16,6 +16,12 @@
     "Function 4": "multitext",
     "Function 5": "multitext",
     "Function 6": "multitext",
-    "Disposition": "number"
+    "Disposition": "number",
+    "ID": "multitext",
+    "Finished": "checkbox",
+    "Quest Name": "checkbox",
+    "Restart": "checkbox",
+    "Index": "number",
+    "BeforeID": "number"
   }
 }
