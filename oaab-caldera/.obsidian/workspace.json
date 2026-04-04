@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7f528fde481d5d62",
+        "id": "9b58fef0c3b98d9c",
         "type": "tabs",
         "children": [
           {
-            "id": "d984f11e972105cb",
+            "id": "298f02412581984f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/Caldera mining contracts 1.md",
+                "file": "Journal/ABcm_HH_Mine/ABcm_HH_Mine ~70.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caldera mining contracts 1"
+              "title": "ABcm_HH_Mine ~70"
             }
           }
         ]
@@ -171,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Topics/Caldera mining contracts 1.md"
+                "file": "Journal/ABcm_HH_Mine/ABcm_HH_Mine ~70.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Caldera mining contracts 1"
+              "title": "File properties for ABcm_HH_Mine ~70"
             }
           }
         ],
@@ -192,49 +192,51 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "esp:Unpack TES3 plugin": false
     }
   },
-  "active": "d984f11e972105cb",
+  "active": "298f02412581984f",
   "lastOpenFiles": [
-    "Templates/Function5.md",
-    "Templates/Function4.md",
-    "Templates/Function3.md",
-    "Templates/Function2.md",
-    "Templates/Function1.md",
-    "Templates/Function0.md",
-    "Topics/Caldera mining contracts 1.md",
-    "Templates/Voice.md",
-    "Templates/Topic-Persuasion-Greeting.md",
-    "Templates/Journal.md",
-    "Resources/Dialogue Info - Base Properties.md",
-    "Resources/Dialogue Function - Base Properties.md",
-    "header.md",
-    "Topics/Test/test topic/test topic ~1.md",
-    "Topics/Test/Akatosh/Akatosh 20160125141604927941.md",
-    "Topics/Test/test topic",
-    "Topics/Test/Akatosh/Akatosh ~2.md",
-    "Topics/Test/Akatosh/Akatosh ~1.md",
-    "Topics/Test/Akatosh",
-    "Journal/ABcm_HH_Mine.md",
-    "Journal/ABcm_HR_Mine.md",
-    "Journal/ABcm_HH_MineReport.md",
-    "Greetings/test/Greeting 1 3746148869655778.md",
-    "Greetings/test/Greeting 1 ~1.md",
-    "Journal/ABcm_UveranRirns.md",
-    "Journal/ABcm_HT_MineWarning.md",
-    "Journal/test/test journal ~3.md",
-    "obsidianDialogueTest_MarkdownFiles.7z",
-    "Test.7z",
-    "Topics/Test/Test.7z",
-    "oaab-caldera.7z",
-    "Pasted image 20260331154447.png",
-    "test markldown files.7z",
-    "Journal/test",
-    "Greetings/test",
-    "Greetings",
-    "Quests/Caldera Mine Main Quest/Caldera Mine Main Quest.canvas",
+    "Journal/ABcm_HH_Mine/ABcm_HH_Mine ~60.md",
+    "Journal/ABcm_HH_Mine/ABcm_HH_Mine ~55.md",
+    "Journal/ABcm_HH_Mine/ABcm_HH_Mine ~45.md",
+    "Journal/ABcm_HH_Mine/ABcm_HH_Mine ~40.md",
+    "Journal/ABcm_HH_Mine/ABcm_HH_Mine ~25.md",
+    "Journal/ABcm_HH_Mine/ABcm_HH_Mine ~20.md",
+    "Journal/ABcm_HH_Mine/ABcm_HH_Mine ~10.md",
     "Quests/Caldera Mine Main Quest/HH Caldera Mine.canvas",
+    "Quests/Caldera Mine Main Quest/Caldera Mine Main Quest.canvas",
+    "Journal/ABcm_UveranFamily/ABcm_UveranFamily ~0.md",
+    "Journal/ABcm_UveranRirns/ABcm_UveranRirns ~0.md",
+    "Journal/ABcm_UveranTerenu/ABcm_UveranTerenu ~0.md",
+    "Journal/ABcm_UveranVilvyni/ABcm_UveranVilvyni ~0.md",
+    "Journal/ABcm_UveranVilvyni/ABcm_UveranVilvyni ~100.md",
+    "Journal/ABcm_UveranVilvyni.md",
+    "Journal/ABcm_UveranTerenu/ABcm_UveranTerenu ~100.md",
+    "Journal/ABcm_UveranVilvyni",
+    "Journal/ABcm_UveranRirns/ABcm_UveranRirns ~100.md",
+    "Journal/ABcm_UveranTerenu.md",
+    "Journal/ABcm_UveranTerenu",
+    "Journal/ABcm_UveranRirns/ABcm_UveranRirns.md",
+    "Journal/ABcm_UveranRirns",
+    "Journal/ABcm_UveranFamily/ABcm_UveranFamily ~10.md",
+    "Journal/ABcm_UveranFamily",
+    "Journal/ABcm_HT_MineWarning/ABcm_HT_MineWarning ~100.md",
+    "Journal/ABcm_HT_MineWarning/ABcm_HT_MineWarning ~0.md",
+    "Journal/ABcm_HT_MineWarning/ABcm_HT_MineWarning.md",
+    "Journal/ABcm_HH_MineReport/ABcm_HH_MineReport ~0.md",
+    "Journal/ABcm_HT_MineWarning",
+    "Journal/ABcm_HT_Mine/ABcm_HT_Mine ~0.md",
+    "Journal/ABcm_HT_Mine/ABcm_HT_Mine ~100.md",
+    "Journal/ABcm_HT_Mine/ABcm_HT_Mine ~20.md",
+    "Journal/ABcm_HT_Mine/ABcm_HT_Mine ~10.md",
+    "Journal/ABcm_HT_Mine",
+    "Journal/ABcm_HR_Mine",
+    "Journal/ABcm_HH_MineReport",
+    "Journal/ABcm_HH_Mine",
+    "TES3 Plugins/OAAB_Grazelands/Greeting/Greeting 7",
+    "Pasted image 20260331154447.png",
     "Quests/Caldera Mine Main Quest/Uveran Family.canvas",
     "Quests/Caldera Mine Main Quest/HH Caldera Mine - Expand Operations.canvas",
     "Quests/Caldera Mine Main Quest/HR Caldera Mine - Khuul Trade Route.canvas",

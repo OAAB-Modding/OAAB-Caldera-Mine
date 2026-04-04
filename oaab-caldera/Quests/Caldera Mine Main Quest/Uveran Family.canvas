@@ -3,7 +3,7 @@
 		{"id":"df1e5828de68817a","type":"text","text":"Uveran family","x":-240,"y":-72,"width":160,"height":50,"color":"2"},
 		{"id":"105da2e6415a6756","type":"text","text":"`GetJournalIndex ABcm_HR_Mine 100`\n\n`GetDeadCount \"rirns uveran\" == 0`\nOR\n`GetDeadCount \"terenu uveran\" == 0`\nOR\n`GetDeadCount \"vilvyni uveran\" == 0`","x":-40,"y":-154,"width":340,"height":214,"color":"4"},
 		{"id":"3e12a90c005bf1cb","type":"text","text":"## \" [[Uveran]]\nNow that my family is poised from a position of power, I would like to gather allies around myself.\n","x":360,"y":-149,"width":280,"height":203,"color":"3"},
-		{"id":"c65c25c7ca39d57b","type":"text","text":"Journal [[ABcm_UveranFamily#10|ABcm_UveranFamily 10]]","x":360,"y":79,"width":280,"height":50,"color":"6"},
+		{"id":"c65c25c7ca39d57b","type":"text","text":"Journal [[ABcm_UveranFamily ~0#10|ABcm_UveranFamily 10]]","x":360,"y":79,"width":280,"height":50,"color":"6"},
 		{
 			"id":"9ba3af752b4cd659",
 			"type":"text",
