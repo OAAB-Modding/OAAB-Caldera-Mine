@@ -1,6 +1,6 @@
 ---
 Author: Melchior Dahrk
-Description:
+Description: Overhauls the Caldera Mine and adds new quests.
 File Type:
   - ESP
 Masters:

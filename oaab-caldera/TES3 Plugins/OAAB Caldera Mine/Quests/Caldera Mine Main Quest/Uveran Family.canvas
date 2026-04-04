@@ -19,7 +19,7 @@
 		{
 			"id":"c4cca99ae9c84f34",
 			"type":"file",
-			"file":"Quests/Caldera Mine Main Quest/HR Caldera Mine.canvas",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/HR Caldera Mine.canvas",
 			"styleAttributes":{"border":"invisible"},
 			"x":-840,
 			"y":20,
@@ -41,7 +41,7 @@
 		{
 			"id":"ac8d2e85a503f62c",
 			"type":"file",
-			"file":"Quests/Caldera Mine Main Quest/HH Caldera Mine.canvas",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/HH Caldera Mine.canvas",
 			"styleAttributes":{"border":"invisible"},
 			"x":-840,
 			"y":-224,
@@ -63,7 +63,7 @@
 		{
 			"id":"d5883bb240d6fdfc",
 			"type":"file",
-			"file":"Quests/Caldera Mine Main Quest/HH Caldera Mine - Expand Operations.canvas",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/HH Caldera Mine - Expand Operations.canvas",
 			"styleAttributes":{"border":"invisible"},
 			"x":843,
 			"y":-382,
@@ -85,7 +85,7 @@
 		{
 			"id":"9184f961948c5240",
 			"type":"file",
-			"file":"Quests/Caldera Mine Main Quest/HR Caldera Mine - Khuul Trade Route.canvas",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/HR Caldera Mine - Khuul Trade Route.canvas",
 			"styleAttributes":{"border":"invisible"},
 			"x":843,
 			"y":129,

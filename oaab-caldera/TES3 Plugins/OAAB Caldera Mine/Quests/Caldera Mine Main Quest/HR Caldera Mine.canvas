@@ -69,7 +69,7 @@
 		{"id":"edf86b2ecbb58263","type":"text","text":"`GetJournalIndex ABcm_HR_Mine 100`","x":8260,"y":101,"width":200,"height":84,"color":"4"},
 		{"id":"e1e70d53b4bb8cba","type":"text","text":"## \" [[Uveran]]\nThis is an important step for the Uveran family. And in no small thanks to your interventions.","x":8500,"y":59,"width":240,"height":169,"color":"3"},
 		{"id":"ab9ee3416f93bfa4","type":"text","text":"AddTopic \"Uveran family\"","x":8500,"y":260,"width":240,"height":60,"color":"6"},
-		{"id":"8c93050d4428482c","type":"file","file":"Topics/Caldera mining contracts 1.md","subpath":"#\" Garisa Llethri","x":20,"y":105,"width":280,"height":203,"color":"3"},
+		{"id":"8c93050d4428482c","type":"file","file":"TES3 Plugins/OAAB Caldera Mine/Topics/Caldera mining contracts/Caldera mining contracts ~0.md","subpath":"#\" Garisa Llethri","x":20,"y":105,"width":280,"height":203,"color":"3"},
 		{
 			"id":"de76f7d18a4695de",
 			"type":"text",
@@ -85,7 +85,7 @@
 		{
 			"id":"5a52673fa785ffdf",
 			"type":"file",
-			"file":"Quests/Caldera Mine Main Quest/Caldera Mine Main Quest.canvas",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/Caldera Mine Main Quest.canvas",
 			"styleAttributes":{"border":"invisible"},
 			"x":-1140,
 			"y":129,
@@ -107,7 +107,7 @@
 		{
 			"id":"633c90dd3dc6096b",
 			"type":"file",
-			"file":"Quests/Caldera Mine Main Quest/Uveran Family.canvas",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/Uveran Family.canvas",
 			"styleAttributes":{"border":"invisible"},
 			"x":8800,
 			"y":20,

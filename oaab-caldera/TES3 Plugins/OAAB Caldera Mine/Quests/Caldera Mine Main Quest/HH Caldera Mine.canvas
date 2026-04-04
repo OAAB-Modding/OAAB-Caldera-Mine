@@ -78,7 +78,7 @@
 		{
 			"id":"3a9c223e55e16905",
 			"type":"file",
-			"file":"Quests/Caldera Mine Main Quest/Caldera Mine Main Quest.canvas",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/Caldera Mine Main Quest.canvas",
 			"styleAttributes":{"border":"invisible"},
 			"x":-1100,
 			"y":-102,
@@ -100,7 +100,7 @@
 		{
 			"id":"e2d732f5013e2953",
 			"type":"file",
-			"file":"Quests/Caldera Mine Main Quest/Uveran Family.canvas",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/Uveran Family.canvas",
 			"styleAttributes":{"border":"invisible"},
 			"x":8240,
 			"y":289,

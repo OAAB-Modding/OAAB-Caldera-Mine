@@ -3,7 +3,7 @@
 		{
 			"id":"ed942a4e14ef815e",
 			"type":"file",
-			"file":"Assets/MW-banner-House_Hlaalu.png",
+			"file":"Resources/Assets/MW-banner-House_Hlaalu.png",
 			"styleAttributes":{"border":"invisible"},
 			"x":-840,
 			"y":-215,
@@ -13,7 +13,7 @@
 		{
 			"id":"e2ca984be93142db",
 			"type":"file",
-			"file":"Assets/MW-banner-House_Redoran.png",
+			"file":"Resources/Assets/MW-banner-House_Redoran.png",
 			"styleAttributes":{"border":"invisible"},
 			"x":-840,
 			"y":193,
@@ -36,7 +36,7 @@
 		{
 			"id":"d08862b21e676493",
 			"type":"file",
-			"file":"Quests/Caldera Mine Main Quest/HH Caldera Mine.canvas",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/HH Caldera Mine.canvas",
 			"styleAttributes":{"border":"invisible"},
 			"x":-240,
 			"y":-102,
@@ -59,7 +59,7 @@
 		{
 			"id":"9f7113908e87bd91",
 			"type":"file",
-			"file":"Quests/Caldera Mine Main Quest/HR Caldera Mine.canvas",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/HR Caldera Mine.canvas",
 			"styleAttributes":{"border":"invisible"},
 			"x":-240,
 			"y":334,
@@ -82,7 +82,7 @@
 		{
 			"id":"b70a57a3e6dbf835",
 			"type":"file",
-			"file":"Quests/Caldera Mine Main Quest/Uveran Family.canvas",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/Uveran Family.canvas",
 			"styleAttributes":{"border":"invisible"},
 			"x":460,
 			"y":154,
@@ -105,7 +105,7 @@
 		{
 			"id":"3db450ba25c6a595",
 			"type":"file",
-			"file":"Quests/Caldera Mine Main Quest/HT Caldera Mine.canvas",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/HT Caldera Mine.canvas",
 			"portal":false,
 			"styleAttributes":{"border":"invisible"},
 			"x":-240,
@@ -116,16 +116,16 @@
 		{
 			"id":"ee58f081a0171acd",
 			"type":"file",
-			"file":"Assets/MW-banner-House_Telvanni.png",
+			"file":"Resources/Assets/MW-banner-House_Telvanni.png",
 			"styleAttributes":{"border":"invisible"},
 			"x":-840,
 			"y":590,
 			"width":140,
 			"height":280
 		},
-		{"id":"cd770251c7740925","type":"file","file":"Quests/Vanilla/HH Shipment of Ebony.md","x":-680,"y":-140,"width":380,"height":131,"color":"3"},
-		{"id":"ec4b4b470fa1b3b6","type":"file","file":"Quests/Vanilla/HR Evidence of Corruption.md","x":-680,"y":268,"width":380,"height":131,"color":"3"},
-		{"id":"dd037ea5fe1554dd","type":"file","file":"Quests/Vanilla/HT Amulet of Unity.md","x":-680,"y":665,"width":380,"height":131,"color":"3"},
+		{"id":"cd770251c7740925","type":"file","file":"TES3 Plugins/OAAB Caldera Mine/Quests/Vanilla/HH Shipment of Ebony.md","x":-680,"y":-140,"width":380,"height":131,"color":"3"},
+		{"id":"ec4b4b470fa1b3b6","type":"file","file":"TES3 Plugins/OAAB Caldera Mine/Quests/Vanilla/HR Evidence of Corruption.md","x":-680,"y":268,"width":380,"height":131,"color":"3"},
+		{"id":"dd037ea5fe1554dd","type":"file","file":"TES3 Plugins/OAAB Caldera Mine/Quests/Vanilla/HT Amulet of Unity.md","x":-680,"y":665,"width":380,"height":131,"color":"3"},
 		{
 			"id":"4feecea29e971906",
 			"type":"text",
@@ -142,7 +142,7 @@
 		{
 			"id":"a7d0e2504577fba9",
 			"type":"file",
-			"file":"Quests/Caldera Mine Main Quest/HH Caldera Mine - Expand Operations.canvas",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/HH Caldera Mine - Expand Operations.canvas",
 			"styleAttributes":{"border":"invisible"},
 			"x":920,
 			"y":-74,
@@ -165,7 +165,7 @@
 		{
 			"id":"7753dc1784b84c6a",
 			"type":"file",
-			"file":"Quests/Caldera Mine Main Quest/HR Caldera Mine - Khuul Trade Route.canvas",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/HR Caldera Mine - Khuul Trade Route.canvas",
 			"styleAttributes":{"border":"invisible"},
 			"x":920,
 			"y":320,

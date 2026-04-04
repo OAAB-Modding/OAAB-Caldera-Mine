@@ -23,5 +23,4 @@ Function 1:
   - Journal
 Variable 1: ABcm_HR_Mine = 0
 ---
-# " [[Garisa Llethri]]
-Llethri sends you to find new Uveran NPC. Need to convince them that they'll be safe from MT assassins when they make a claimto Caldera. ^e42375
+Llethri sends you to find new Uveran NPC. Need to convince them that they'll be safe from MT assassins when they make a claimto Caldera.
