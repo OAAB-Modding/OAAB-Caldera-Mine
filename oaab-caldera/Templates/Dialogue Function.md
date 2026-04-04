@@ -1,5 +1,0 @@
----
-FunctionIndex:
-Function:
-Variable:
----

@@ -29,6 +29,7 @@
     "Type": "multitext",
     "DiagID": "number",
     "File Type": "multitext",
-    "Masters": "multitext"
+    "Masters": "multitext",
+    "Topic": "multitext"
   }
 }

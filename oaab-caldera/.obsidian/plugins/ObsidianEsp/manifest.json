@@ -1,0 +1,10 @@
+{
+	"id": "esp",
+	"name": "ESP",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Unpack TES3 plugin files (.ESP/.ESM) into markdown using a structured directory format.",
+	"author": "Greatness7",
+	"authorUrl": "https://github.com/Greatness7",
+	"isDesktopOnly": true
+}

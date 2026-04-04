@@ -1,10 +1,11 @@
 ---
 Type:
-  - Voice
+Topic:
 DiagID:
 PrevID:
-ID:
+Sound Path:
 Disposition:
+ID:
 Race:
 Sex:
 Class:
@@ -14,5 +15,4 @@ Cell:
 PC Faction:
 PC Rank:
 Result:
-Sound File:
 ---

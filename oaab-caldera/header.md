@@ -1,8 +1,12 @@
 ---
 Author: Melchior Dahrk
-Description: dialogue test
+Description:
 File Type:
   - ESP
 Masters:
   - Morrowind.esm
+  - Bloodmoon.esm
+  - OAAB_Data.esm
+  - Tamriel_Data.esm
+  - Tribunal.esm
 ---

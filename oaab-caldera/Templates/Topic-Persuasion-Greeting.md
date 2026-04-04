@@ -1,9 +1,10 @@
 ---
 Type:
+Topic:
 DiagID:
 PrevID:
-ID:
 Disposition:
+ID:
 Race:
 Sex:
 Class:
