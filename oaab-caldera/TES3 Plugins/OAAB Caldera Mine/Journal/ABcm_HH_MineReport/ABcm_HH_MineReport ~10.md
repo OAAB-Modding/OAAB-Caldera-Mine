@@ -2,7 +2,7 @@
 Type:
   - Journal
 Topic:
-  - ABcm_HH_Mine
+  - ABcm_HH_MineReport
 DiagID:
 PrevID:
 Index: 10

@@ -11,14 +11,10 @@
             "id": "298f02412581984f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TES3 Plugins/OAAB Caldera Mine/Topics/Caldera mining contracts/Caldera mining contracts ~0.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Caldera mining contracts ~0"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 297.5
   },
   "right": {
     "id": "af9a580c890098ff",
@@ -171,10 +167,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TES3 Plugins/OAAB Caldera Mine/Topics/Caldera mining contracts/Caldera mining contracts ~0.md"
+                "file": "Plugin exports/OAAB_Grazelands/Topic/Reynel Uvirith/Reynel Uvirith ~2.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Caldera mining contracts ~0"
+              "title": "File properties for Reynel Uvirith ~2"
             }
           }
         ],
@@ -186,54 +182,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "esp:Unpack plugin file": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "esp:Unpack TES3 plugin": false
+      "bases:Create new base": false
     }
   },
-  "active": "298f02412581984f",
+  "active": "7eaf84c7a1fa9a41",
   "lastOpenFiles": [
-    "TES3 Plugins/OAAB Caldera Mine/header.md",
-    "TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_UveranVilvyni/ABcm_UveranVilvyni ~100.md",
-    "TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_UveranVilvyni/ABcm_UveranVilvyni ~0.md",
-    "TES3 Plugins/OAAB Caldera Mine/Topics/Caldera mining contracts/Caldera mining contracts ~0.md",
-    "TES3 Plugins/OAAB Caldera Mine/Topics/Caldera mining contracts",
-    "TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~100.md",
-    "TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~70.md",
-    "TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~55.md",
-    "TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~45.md",
-    "TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~20.md",
-    "TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~0.md",
-    "TES3 Plugins/OAAB Caldera Mine/Objects/NPCs/Uveran.md",
-    "TES3 Plugins/OAAB Caldera Mine/Objects",
-    "TES3 Plugins/OAAB Caldera Mine/Objects/NPCs/Garisa Llethri.md",
-    "TES3 Plugins/OAAB Caldera Mine/Objects/NPCs/Edd Theman.md",
-    "TES3 Plugins/OAAB Caldera Mine/Objects/NPCs/Duke Vedam Dren.md",
-    "TES3 Plugins/OAAB Caldera Mine/Objects/NPCs/Crassius Curio.md",
-    "Resources",
-    "TES3 Plugins/OAAB Odai Plateau/Persuasion/Service Refusal/Service Refusal ~3.md",
-    "TES3 Plugins/OAAB Odai Plateau/Persuasion/Service Refusal/Service Refusal ~2.md",
-    "TES3 Plugins/OAAB Odai Plateau/Persuasion/Service Refusal/Service Refusal ~1.md",
-    "TES3 Plugins/OAAB Odai Plateau/Persuasion/Service Refusal/Service Refusal ~0.md",
-    "TES3 Plugins/OAAB Odai Plateau/Persuasion/Service Refusal",
-    "TES3 Plugins/OAAB Odai Plateau/Persuasion",
-    "TES3 Plugins/OAAB Odai Plateau/Greeting/Greeting 5/Greeting 5 ~252.md",
-    "TES3 Plugins/OAAB Odai Plateau/Greeting/Greeting 5/Greeting 5 ~251.md",
-    "TES3 Plugins/OAAB Odai Plateau/Greeting/Greeting 5/Greeting 5 ~250.md",
-    "TES3 Plugins/OAAB Odai Plateau/Greeting/Greeting 5/Greeting 5 ~249.md",
-    "TES3 Plugins/OAAB Odai Plateau/Greeting/Greeting 5/Greeting 5 ~248.md",
-    "TES3 Plugins/OAAB Odai Plateau/Greeting/Greeting 5/Greeting 5 ~247.md",
-    "TES3 Plugins/OAAB Odai Plateau/Greeting/Greeting 5/Greeting 5 ~246.md",
-    "TES3 Plugins/OAAB Odai Plateau/Greeting/Greeting 5",
-    "TES3 Plugins/OAAB Odai Plateau/Greeting",
-    "TES3 Plugins/OAAB Odai Plateau/Topic/trader",
-    "TES3 Plugins/OAAB Odai Plateau/Topic/someone in particular",
-    "TES3 Plugins/OAAB Odai Plateau/Topic/Sernsi",
+    "Plugin exports/OAAB_Grazelands/OAAB_Grazelands_dialogue.log",
+    "Plugin exports/OAAB_Grazelands/OAAB_Grazelands_dialogue.esp",
+    "Plugin exports/OAAB_Grazelands/Topic/a new mouth for Aryon/a new mouth for Aryon ~1.md",
+    "Plugin exports/OAAB_Grazelands/Topic/deliver a letter/deliver a letter ~0.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 7/Greeting 7 ~0.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 7",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 5/Greeting 5 ~13.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 5/Greeting 5 ~12.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 5/Greeting 5 ~11.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 5/Greeting 5 ~10.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 5/Greeting 5 ~9.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 5/Greeting 5 ~8.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 5/Greeting 5 ~7.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 5/Greeting 5 ~6.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 5/Greeting 5 ~5.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 5/Greeting 5 ~4.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 5/Greeting 5 ~3.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 5/Greeting 5 ~2.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 5/Greeting 5 ~1.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 5/Greeting 5 ~0.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 5",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 2/Greeting 2 ~38.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 2/Greeting 2 ~37.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 2/Greeting 2 ~36.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 2/Greeting 2 ~35.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 2/Greeting 2 ~34.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 2/Greeting 2 ~33.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 2/Greeting 2 ~32.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 2/Greeting 2 ~31.md",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 2",
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 1",
+    "Plugin exports/OAAB_Grazelands/Greeting",
+    "Plugin exports/OAAB_Grazelands/Voice/Thief",
+    "Plugin exports/OAAB_Grazelands/Voice/Idle",
+    "Plugin exports/OAAB_Grazelands/Voice/Hit",
+    "Plugin exports/OAAB_Grazelands/Voice/Flee",
     "TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/HH Caldera Mine.canvas",
     "TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/Caldera Mine Main Quest.canvas",
     "Pasted image 20260331154447.png",
