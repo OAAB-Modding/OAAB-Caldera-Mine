@@ -22,4 +22,4 @@ canvas:
 House Hlaalu_ Caldera Mine:
   - "[[ABcm_HH_Mine ~40]]"
 ---
-; After interviewing Uveran, the player learns that Uveran’s father spoke of ebony in the caves his family discovered while building their ancestral tomb. His father commissioned a surveyor to inspect the cave system, but never received the official report. Uveran thinks the surveyor’s journal might still be down in the lowest portions of the mine.
+As if my family having clear ownership of the land isn't enough on its own... but if it helps, my father spoke of ebony discovered in the caves while building our family tomb. He commissioned a surveyor to inspect the cave system, but never received the official report. The surveyor’s journal might be in the lower portions of the mine. Or else it would have been discovered by now.

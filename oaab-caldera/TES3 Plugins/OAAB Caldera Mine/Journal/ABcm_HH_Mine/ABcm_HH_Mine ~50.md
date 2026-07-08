@@ -11,7 +11,6 @@ Finished: false
 Restart: false
 canvas:
   - "[[House Hlaalu_ Caldera Mine.canvas]]"
-House Hlaalu_ Caldera Mine:
-  - "[[ABcm_HH_Mine ~55]]"
+House Hlaalu_ Caldera Mine: []
 ---
-Uveran confirms this is the [[report]] and asks the player to wait a day.
+Solis Uveran confirmed that the report I found is the one his father commisioned. He said to wait a day and then speak to him again.

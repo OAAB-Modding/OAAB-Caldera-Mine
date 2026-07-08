@@ -11,7 +11,6 @@ Finished: false
 Restart: false
 canvas:
   - "[[House Hlaalu_ Caldera Mine.canvas]]"
-House Hlaalu_ Caldera Mine:
-  - "[[ABcm_HH_Mine ~50]]"
+House Hlaalu_ Caldera Mine: []
 ---
-Crassius sends player into the mine to find the [[report]].
+Crassius Curio heard a rumor that the Uveran family hired a surveyor to inspect the caves below the Uveran Ancestral Tomb when they discovered the ebony deposit. The report may still be in the lower reaches of the Caldera Mine. I should go there and find it.

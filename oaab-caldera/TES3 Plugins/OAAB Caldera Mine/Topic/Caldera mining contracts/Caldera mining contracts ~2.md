@@ -14,15 +14,16 @@ Rank:
 Cell:
 PC Faction: Hlaalu
 PC Rank:
-Result: "; StartScript to Wait-One-Day which will give Journal ABcm_HH_MineReport 20\r
+Result: "Journal ABcm_HH_Mine 50\r
 
-  Journal ABcm_HH_Mine 50"
-Function0: Journal - Journal
+  ; StartScript to Wait-One-Day which will give Journal ABcm_HH_MineReport 20"
+Function0: Journal
 Variable0: ABcm_HH_Mine = 40
-Function1: Journal - Journal
+Function1: Journal
 Variable1: Journal ABcm_HH_MineReport 10
 canvas:
   - "[[House Hlaalu_ Caldera Mine.canvas]]"
-House Hlaalu_ Caldera Mine: []
+House Hlaalu_ Caldera Mine:
+  - "[[ABcm_HH_Mine ~50]]"
 ---
 This must be the report my father commissioned. This solidifies my, and by extension, House Hlaalu's claim to the Caldera mine. Give me a day to meet with House Hlaalu's barristers to discuss next steps.

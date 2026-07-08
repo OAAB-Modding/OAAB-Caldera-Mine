@@ -14,4 +14,4 @@ canvas:
 House Hlaalu_ Caldera Mine:
   - "[[ABcm_HH_Mine ~25]]"
 ---
-Convinced Uveran to join HH.
+I convinced Solis Uveran to join House Hlaalu. I should let Crassius Curio know.

@@ -14,4 +14,4 @@ canvas:
 House Hlaalu_ Caldera Mine:
   - "[[ABcm_HH_Mine ~70]]"
 ---
-HR has attacked the mine. I [[need]] to go lend them aid.
+House Redoran has attacked the Caldera mine. I need to go help the miners.

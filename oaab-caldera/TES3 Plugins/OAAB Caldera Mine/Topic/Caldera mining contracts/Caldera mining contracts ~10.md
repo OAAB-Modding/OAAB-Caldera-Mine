@@ -15,13 +15,13 @@ Cell:
 PC Faction: Hlaalu
 PC Rank:
 Result: |-
-  ; Check reputation (FAIL)
   ModDisposition -10
   Goodbye
+  ; Check strength (FAIL)
 Function0: Journal
 Variable0: ABcm_HH_Mine = 10
 Function1: Function
-Variable1: Reputation < 10
+Variable1: PC Strength < 50
 Function2: Function
 Variable2: Choice = 1
 canvas:

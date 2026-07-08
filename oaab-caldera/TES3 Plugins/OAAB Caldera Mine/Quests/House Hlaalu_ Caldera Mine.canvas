@@ -4,1452 +4,1462 @@
 			"id":"00be3d7067103108",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~10.md",
+			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~10.md","questId":"ABcm_HH_Mine","rev":1},
 			"x":1080,
-			"y":141,
+			"y":351,
 			"width":440,
 			"height":114,
-			"color":"6",
-			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~10.md","questId":"ABcm_HH_Mine","rev":1}
+			"color":"6"
 		},
 		{
 			"id":"629efcc9990553ff",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~20.md",
+			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~20.md","questId":"ABcm_HH_Mine","rev":1},
 			"x":5940,
-			"y":300,
+			"y":868,
 			"width":440,
 			"height":96,
-			"color":"6",
-			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~20.md","questId":"ABcm_HH_Mine","rev":1}
+			"color":"6"
 		},
 		{
 			"id":"fc973ca84d6fa08a",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~25.md",
+			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~25.md","questId":"ABcm_HH_Mine","rev":1},
 			"x":6560,
-			"y":121,
+			"y":736,
 			"width":440,
 			"height":96,
-			"color":"6",
-			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~25.md","questId":"ABcm_HH_Mine","rev":1}
+			"color":"6"
 		},
 		{
 			"id":"ef3a3cd2c635e552",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~30.md",
+			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~30.md","questId":"ABcm_HH_Mine","rev":1},
 			"x":7800,
-			"y":677,
+			"y":1089,
 			"width":440,
 			"height":138,
-			"color":"6",
-			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~30.md","questId":"ABcm_HH_Mine","rev":1}
+			"color":"6"
 		},
 		{
 			"id":"a2e63f9b216f06d1",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~40.md",
+			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~40.md","questId":"ABcm_HH_Mine","rev":1},
 			"x":9660,
-			"y":738,
+			"y":1060,
 			"width":440,
-			"height":114,
-			"color":"6",
-			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~40.md","questId":"ABcm_HH_Mine","rev":1}
+			"height":222,
+			"color":"6"
 		},
 		{
 			"id":"918481d2be3ffd74",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~45.md",
+			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~45.md","questId":"ABcm_HH_Mine","rev":1},
 			"x":8420,
-			"y":-52,
+			"y":649,
 			"width":440,
 			"height":114,
-			"color":"6",
-			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~45.md","questId":"ABcm_HH_Mine","rev":1}
-		},
-		{
-			"id":"1aa2c8dc3c3ef244",
-			"type":"file",
-			"file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~50.md",
-			"x":9040,
-			"y":126,
-			"width":440,
-			"height":114,
-			"color":"6",
-			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~50.md","questId":"ABcm_HH_Mine","rev":1}
+			"color":"6"
 		},
 		{
 			"id":"e6d2e7056e338461",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~55.md",
-			"x":9660,
-			"y":182,
+			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~55.md","questId":"ABcm_HH_Mine","rev":1},
+			"x":10280,
+			"y":697,
 			"width":440,
-			"height":114,
-			"color":"6",
-			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~55.md","questId":"ABcm_HH_Mine","rev":1}
+			"height":153,
+			"color":"6"
 		},
 		{
 			"id":"7c838835ef65411b",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~60.md",
-			"x":11360,
-			"y":166,
+			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~60.md","questId":"ABcm_HH_Mine","rev":1},
+			"x":13115,
+			"y":1019,
 			"width":440,
 			"height":114,
-			"color":"6",
-			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~60.md","questId":"ABcm_HH_Mine","rev":1}
+			"color":"6"
 		},
 		{
 			"id":"2c56e68e138d0e0e",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~70.md",
-			"x":11980,
-			"y":-170,
+			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~70.md","questId":"ABcm_HH_Mine","rev":1},
+			"x":13735,
+			"y":689,
 			"width":440,
-			"height":138,
-			"color":"6",
-			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~70.md","questId":"ABcm_HH_Mine","rev":1}
+			"height":160,
+			"color":"6"
 		},
 		{
 			"id":"bd25743a0d0d43b4",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~100.md",
-			"x":13735,
-			"y":-54,
+			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~100.md","questId":"ABcm_HH_Mine","rev":1},
+			"x":15490,
+			"y":806,
 			"width":440,
 			"height":114,
-			"color":"6",
-			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~100.md","questId":"ABcm_HH_Mine","rev":1}
+			"color":"6"
 		},
 		{
 			"id":"70d46ecfe21dcc3f",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~7.md",
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~7.md","rev":1},
 			"x":460,
-			"y":-222,
+			"y":-18,
 			"width":440,
 			"height":330,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~7.md","rev":1}
+			"color":"3"
 		},
 		{
 			"id":"72dc8988a1d4c7d0",
 			"type":"text",
 			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = crassius curio\nJournal HH_EbonyDelivery = 100",
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~7.md","rev":1},
 			"x":0,
-			"y":-118,
+			"y":86,
 			"width":385,
 			"height":122,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~7.md","rev":1}
+			"color":"4"
 		},
 		{
 			"id":"07cda6864f89aede",
 			"type":"text",
 			"text":"Journal [[ABcm_HH_Mine ~10|ABcm_HH_Mine 10]]\n; Helped Odral Helvi in Shipment of Ebony quest.\"",
+			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~7.md","rev":1},
 			"x":460,
-			"y":138,
+			"y":342,
 			"width":440,
 			"height":74,
-			"color":"6",
-			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~7.md","rev":1}
+			"color":"6"
 		},
 		{
 			"id":"9ae0266c8a11af90",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~8.md",
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~8.md","rev":1},
 			"x":460,
-			"y":372,
+			"y":576,
 			"width":440,
-			"height":162,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~8.md","rev":1}
+			"height":186,
+			"color":"3"
 		},
 		{
 			"id":"ec35a3a33b26287f",
 			"type":"text",
 			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = crassius curio\nJournal HH_EbonyDelivery = 110",
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~8.md","rev":1},
 			"x":0,
-			"y":392,
+			"y":608,
 			"width":385,
 			"height":122,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~8.md","rev":1}
+			"color":"4"
 		},
 		{
 			"id":"f2512dbd781f6841",
 			"type":"text",
 			"text":"Journal [[ABcm_HH_Mine ~10|ABcm_HH_Mine 10]]\n; Got Odral helvi arrested in Shipment of Ebony quest.\"",
+			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~8.md","rev":1},
 			"x":460,
-			"y":564,
+			"y":792,
 			"width":440,
 			"height":98,
-			"color":"6",
-			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~8.md","rev":1}
-		},
-		{
-			"id":"b86498e4253a22fe",
-			"type":"file",
-			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~20.md",
-			"x":2160,
-			"y":-218,
-			"width":440,
-			"height":96,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~20.md","rev":1}
-		},
-		{
-			"id":"031c438570a4c92d",
-			"type":"text",
-			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nJournal ABcm_HH_Mine = 10",
-			"x":1700,
-			"y":-161,
-			"width":385,
-			"height":122,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~20.md","rev":1}
-		},
-		{
-			"id":"2b34aaed3304c699",
-			"type":"text",
-			"text":"Threaten Uveran",
-			"x":2780,
-			"y":-940,
-			"width":320,
-			"height":50,
-			"color":"4",
-			"espCard":{"role":"choice","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~20.md","choiceValue":1,"rev":1}
-		},
-		{
-			"id":"b00ecde2961b4fa6",
-			"type":"text",
-			"text":"Disposition check",
-			"x":2780,
-			"y":-155,
-			"width":320,
-			"height":50,
-			"color":"4",
-			"espCard":{"role":"choice","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~20.md","choiceValue":2,"rev":1}
-		},
-		{
-			"id":"0e86f3af385eca07",
-			"type":"text",
-			"text":"Tell Uveran you're here to kill him.",
-			"x":2780,
-			"y":322,
-			"width":320,
-			"height":74,
-			"color":"4",
-			"espCard":{"role":"choice","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~20.md","choiceValue":3,"rev":1}
-		},
-		{
-			"id":"7cd182dd07708501",
-			"type":"file",
-			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~10.md",
-			"x":3740,
-			"y":-1769,
-			"width":440,
-			"height":114,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~10.md","rev":1}
-		},
-		{
-			"id":"8803c1ecaf6839aa",
-			"type":"text",
-			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nChoice = 1\nJournal ABcm_HH_Mine = 10\nReputation < 10",
-			"x":3280,
-			"y":-1609,
-			"width":385,
-			"height":170,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~10.md","rev":1}
-		},
-		{
-			"id":"153d73627731c904",
-			"type":"text",
-			"text":"; Check reputation (FAIL)\nModDisposition -10\nGoodbye",
-			"x":3740,
-			"y":-1625,
-			"width":440,
-			"height":98,
-			"color":"5",
-			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~10.md","rev":1}
-		},
-		{
-			"id":"6f4dfa20b3e86d00",
-			"type":"file",
-			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~11.md",
-			"x":3740,
-			"y":-1367,
-			"width":440,
-			"height":114,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~11.md","rev":1}
-		},
-		{
-			"id":"b26b7c39a469832b",
-			"type":"text",
-			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nChoice = 1\nDead rirns uveran = 0\nDead terenu uveran = 0\nDead vilvyni uveran = 0\nJournal ABcm_HH_Mine = 10",
-			"x":3280,
-			"y":-1279,
-			"width":385,
-			"height":218,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~11.md","rev":1}
-		},
-		{
-			"id":"55abc04769d7a355",
-			"type":"text",
-			"text":"; Any dead family members (FAIL)\nModDisposition -10\nGoodbye",
-			"x":3740,
-			"y":-1223,
-			"width":440,
-			"height":98,
-			"color":"5",
-			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~11.md","rev":1}
-		},
-		{
-			"id":"744ed19fa4e026e3",
-			"type":"file",
-			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~12.md",
-			"x":3740,
-			"y":-965,
-			"width":440,
-			"height":138,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~12.md","rev":1}
-		},
-		{
-			"id":"7c9698163dc41da8",
-			"type":"text",
-			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nChoice = 1\nJournal ABcm_HH_Mine = 10",
-			"x":3280,
-			"y":-901,
-			"width":385,
-			"height":146,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~12.md","rev":1}
-		},
-		{
-			"id":"b3d351285166fb06",
-			"type":"text",
-			"text":"; Check strength, reputation, or any dead family members (SUCCESS)\nJournal [[ABcm_HH_Mine ~20|ABcm_HH_Mine 20]]",
-			"x":3740,
-			"y":-797,
-			"width":440,
-			"height":98,
-			"color":"6",
-			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~12.md","rev":1}
+			"color":"6"
 		},
 		{
 			"id":"c547e0b97f12f911",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~9.md",
-			"x":3740,
-			"y":-539,
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~9.md","rev":1},
+			"x":2160,
+			"y":210,
 			"width":440,
 			"height":114,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~9.md","rev":1}
+			"color":"3"
 		},
 		{
 			"id":"a94cedbe18d19f2e",
 			"type":"text",
+			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = crassius curio\nJournal ABcm_HH_Mine = 10",
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~9.md","rev":1},
+			"x":1700,
+			"y":206,
+			"width":385,
+			"height":122,
+			"color":"4"
+		},
+		{
+			"id":"b5e99b7117dffd4f",
+			"type":"file",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~21.md",
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~21.md","rev":1},
+			"x":2160,
+			"y":517,
+			"width":440,
+			"height":162,
+			"color":"3"
+		},
+		{
+			"id":"f833e5c88e23e3bc",
+			"type":"text",
+			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nJournal ABcm_HH_Mine = 10",
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~21.md","rev":1},
+			"x":1700,
+			"y":488,
+			"width":385,
+			"height":122,
+			"color":"4"
+		},
+		{
+			"id":"1d86e31a5b47c8b0",
+			"type":"text",
+			"text":"You'll join House Hlaalu if you know what's good for you!",
+			"espCard":{"role":"choice","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~21.md","choiceValue":1,"rev":1},
+			"x":2780,
+			"y":-296,
+			"width":320,
+			"height":74,
+			"color":"4"
+		},
+		{
+			"id":"28404e134b116cdf",
+			"type":"text",
+			"text":"I'm not here to coerce you. But do you really think Redoran can protect you?",
+			"espCard":{"role":"choice","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~21.md","choiceValue":2,"rev":1},
+			"x":2780,
+			"y":636,
+			"width":320,
+			"height":98,
+			"color":"4"
+		},
+		{
+			"id":"49ff8ff624158cde",
+			"type":"text",
+			"text":"Tell Uveran you're here to kill him.",
+			"espCard":{"role":"choice","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~21.md","choiceValue":3,"rev":1},
+			"x":2780,
+			"y":1304,
+			"width":320,
+			"height":74,
+			"color":"4"
+		},
+		{
+			"id":"7cd182dd07708501",
+			"type":"file",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~10.md",
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~10.md","rev":1},
+			"x":3740,
+			"y":-1115,
+			"width":440,
+			"height":114,
+			"color":"3"
+		},
+		{
+			"id":"8803c1ecaf6839aa",
+			"type":"text",
 			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nChoice = 1\nJournal ABcm_HH_Mine = 10\nPC Strength < 50",
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~10.md","rev":1},
 			"x":3280,
-			"y":-595,
+			"y":-961,
 			"width":385,
 			"height":170,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~9.md","rev":1}
+			"color":"4"
 		},
 		{
-			"id":"e251a90024975040",
+			"id":"153d73627731c904",
 			"type":"text",
-			"text":"; Check strength (FAIL)\nModDisposition -10\nGoodbye",
+			"text":"ModDisposition -10\nGoodbye\n; Check strength (FAIL)",
+			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~10.md","rev":1},
 			"x":3740,
-			"y":-395,
+			"y":-971,
 			"width":440,
 			"height":98,
-			"color":"5",
-			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~9.md","rev":1}
+			"color":"5"
 		},
 		{
-			"id":"86837a615f90b735",
+			"id":"6f4dfa20b3e86d00",
 			"type":"file",
-			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~14.md",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~11.md",
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~11.md","rev":1},
 			"x":3740,
-			"y":-137,
+			"y":-713,
 			"width":440,
-			"height":96,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~14.md","rev":1}
+			"height":114,
+			"color":"3"
 		},
 		{
-			"id":"4bc5eb58413a79ce",
+			"id":"b26b7c39a469832b",
 			"type":"text",
-			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nChoice = 2\nJournal ABcm_HH_Mine = 10",
+			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nChoice = 1\nJournal ABcm_HH_Mine = 10\nReputation < 10",
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~11.md","rev":1},
 			"x":3280,
-			"y":-187,
+			"y":-631,
 			"width":385,
-			"height":146,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~14.md","rev":1}
+			"height":170,
+			"color":"4"
 		},
 		{
-			"id":"deef062658b5d3a0",
+			"id":"55abc04769d7a355",
 			"type":"text",
-			"text":"; Check disposition (FAIL)",
+			"text":"; Check reputation (FAIL)\nModDisposition -10\nGoodbye",
+			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~11.md","rev":1},
 			"x":3740,
-			"y":-11,
+			"y":-569,
 			"width":440,
-			"height":50,
-			"color":"5",
-			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~14.md","rev":1}
+			"height":98,
+			"color":"5"
+		},
+		{
+			"id":"744ed19fa4e026e3",
+			"type":"file",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~12.md",
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~12.md","rev":1},
+			"x":3740,
+			"y":-311,
+			"width":440,
+			"height":114,
+			"color":"3"
+		},
+		{
+			"id":"7c9698163dc41da8",
+			"type":"text",
+			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nChoice = 1\nDead - Dead vilvyni uveran = 0\nDead rirns uveran = 0\nDead terenu uveran = 0\nJournal ABcm_HH_Mine = 10",
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~12.md","rev":1},
+			"x":3280,
+			"y":-301,
+			"width":385,
+			"height":218,
+			"color":"4"
+		},
+		{
+			"id":"b3d351285166fb06",
+			"type":"text",
+			"text":"; Any dead family members (FAIL)\nModDisposition -10\nGoodbye",
+			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~12.md","rev":1},
+			"x":3740,
+			"y":-167,
+			"width":440,
+			"height":98,
+			"color":"5"
 		},
 		{
 			"id":"e4c025fab16aa5a2",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~13.md",
-			"x":2160,
-			"y":98,
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~13.md","rev":1},
+			"x":3740,
+			"y":91,
 			"width":440,
-			"height":162,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~13.md","rev":1}
+			"height":138,
+			"color":"3"
 		},
 		{
 			"id":"bf2f9c1b914c35a9",
 			"type":"text",
-			"text":"Disposition = 90\nPC Faction = Hlaalu\nID = ABcm_Uveran\nChoice = 2\nJournal ABcm_HH_Mine = 10",
-			"x":1700,
-			"y":121,
+			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nChoice = 1\nJournal ABcm_HH_Mine = 10",
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~13.md","rev":1},
+			"x":3280,
+			"y":77,
 			"width":385,
 			"height":146,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~13.md","rev":1}
+			"color":"4"
 		},
 		{
 			"id":"48e7a0653573a8b7",
 			"type":"text",
-			"text":"; Check disposition (SUCCESS)\nJournal [[ABcm_HH_Mine ~20|ABcm_HH_Mine 20]]",
-			"x":2160,
-			"y":290,
-			"width":440,
-			"height":74,
-			"color":"6",
-			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~13.md","rev":1}
-		},
-		{
-			"id":"da8bec280ed66af8",
-			"type":"file",
-			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~19.md",
+			"text":"; Check strength, reputation, or any dead family members (SUCCESS)\nJournal [[ABcm_HH_Mine ~20|ABcm_HH_Mine 20]]",
+			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~13.md","rev":1},
 			"x":3740,
-			"y":289,
+			"y":259,
 			"width":440,
-			"height":96,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~19.md","rev":1}
-		},
-		{
-			"id":"bfec759154300e93",
-			"type":"text",
-			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nChoice = 3\nJournal ABcm_HH_Mine = 10",
-			"x":3280,
-			"y":257,
-			"width":385,
-			"height":146,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~19.md","rev":1}
-		},
-		{
-			"id":"4d96369f9da4a2cd",
-			"type":"text",
-			"text":"; Check strength and disposition (FAIL)\nsetfight 100\nStartCombat Player\nGoodbye",
-			"x":3740,
-			"y":415,
-			"width":440,
-			"height":122,
-			"color":"5",
-			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~19.md","rev":1}
-		},
-		{
-			"id":"13784c5e18f3ab66",
-			"type":"file",
-			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~17.md",
-			"x":3740,
-			"y":837,
-			"width":440,
-			"height":114,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~17.md","rev":1}
-		},
-		{
-			"id":"b3515a77e96c67dd",
-			"type":"text",
-			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nChoice = 3\nJournal ABcm_HH_Mine = 10\nPC Strength >= 50",
-			"x":3280,
-			"y":563,
-			"width":385,
-			"height":170,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~17.md","rev":1}
-		},
-		{
-			"id":"6a6be94ebb7e4316",
-			"type":"text",
-			"text":"Player agrees to spare Uveran\\",
-			"x":4360,
-			"y":646,
-			"width":320,
-			"height":50,
-			"color":"4",
-			"espCard":{"role":"choice","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~17.md","choiceValue":31,"rev":1}
-		},
-		{
-			"id":"9799a55c7afe3784",
-			"type":"text",
-			"text":"Player decides to attack Uveran anyway\\",
-			"x":4360,
-			"y":946,
-			"width":320,
-			"height":74,
-			"color":"4",
-			"espCard":{"role":"choice","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~17.md","choiceValue":32,"rev":1}
-		},
-		{
-			"id":"6fa03b657031cb79",
-			"type":"file",
-			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~18.md",
-			"x":2160,
-			"y":524,
-			"width":440,
-			"height":114,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~18.md","rev":1}
-		},
-		{
-			"id":"bfee9d040233bed2",
-			"type":"text",
-			"text":"Disposition = 50\nPC Faction = Hlaalu\nID = ABcm_Uveran\nChoice = 3\nJournal ABcm_HH_Mine = 10",
-			"x":1700,
-			"y":427,
-			"width":385,
-			"height":146,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~18.md","rev":1}
-		},
-		{
-			"id":"a31686a5a1fbcfb9",
-			"type":"text",
-			"text":"Player agrees to spare Uveran\\",
-			"x":2780,
-			"y":526,
-			"width":320,
-			"height":50,
-			"color":"4",
-			"espCard":{"role":"choice","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~18.md","choiceValue":31,"rev":1}
-		},
-		{
-			"id":"438f66ed75754f17",
-			"type":"text",
-			"text":"Player decides to attack Uveran anyway\\",
-			"x":2780,
-			"y":604,
-			"width":320,
-			"height":74,
-			"color":"4",
-			"espCard":{"role":"choice","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~18.md","choiceValue":32,"rev":1}
+			"height":98,
+			"color":"6"
 		},
 		{
 			"id":"4e153a14a74f8f64",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~15.md",
-			"x":5320,
-			"y":451,
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~15.md","rev":1},
+			"x":3740,
+			"y":517,
 			"width":440,
-			"height":138,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~15.md","rev":1}
+			"height":96,
+			"color":"3"
 		},
 		{
 			"id":"5bc3dd15fe157d9f",
 			"type":"text",
-			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nChoice = 31\nJournal ABcm_HH_Mine = 10",
-			"x":4860,
-			"y":482,
+			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nChoice = 2\nJournal ABcm_HH_Mine = 10",
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~15.md","rev":1},
+			"x":3280,
+			"y":464,
 			"width":385,
 			"height":146,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~15.md","rev":1}
+			"color":"4"
 		},
 		{
 			"id":"e73c9d2b11b77121",
 			"type":"text",
-			"text":"Journal [[ABcm_HH_Mine ~20|ABcm_HH_Mine 20]]",
-			"x":5320,
-			"y":619,
+			"text":"; Check disposition (FAIL)",
+			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~15.md","rev":1},
+			"x":3740,
+			"y":643,
 			"width":440,
 			"height":50,
-			"color":"6",
-			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~15.md","rev":1}
+			"color":"5"
+		},
+		{
+			"id":"86837a615f90b735",
+			"type":"file",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~14.md",
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~14.md","rev":1},
+			"x":3740,
+			"y":853,
+			"width":440,
+			"height":162,
+			"color":"3"
+		},
+		{
+			"id":"4bc5eb58413a79ce",
+			"type":"text",
+			"text":"Disposition = 90\nPC Faction = Hlaalu\nID = ABcm_Uveran\nChoice = 2\nJournal ABcm_HH_Mine = 10",
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~14.md","rev":1},
+			"x":3280,
+			"y":770,
+			"width":385,
+			"height":146,
+			"color":"4"
+		},
+		{
+			"id":"deef062658b5d3a0",
+			"type":"text",
+			"text":"; Check disposition (SUCCESS)\nJournal [[ABcm_HH_Mine ~20|ABcm_HH_Mine 20]]",
+			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~14.md","rev":1},
+			"x":3740,
+			"y":1045,
+			"width":440,
+			"height":74,
+			"color":"6"
+		},
+		{
+			"id":"b86498e4253a22fe",
+			"type":"file",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~20.md",
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~20.md","rev":1},
+			"x":3740,
+			"y":1827,
+			"width":440,
+			"height":96,
+			"color":"3"
+		},
+		{
+			"id":"031c438570a4c92d",
+			"type":"text",
+			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nChoice = 3\nJournal ABcm_HH_Mine = 10",
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~20.md","rev":1},
+			"x":3280,
+			"y":1712,
+			"width":385,
+			"height":146,
+			"color":"4"
+		},
+		{
+			"id":"7f52be0f2a5817db",
+			"type":"text",
+			"text":"; Check strength and disposition (FAIL)\nsetfight 100\nStartCombat Player\nGoodbye",
+			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~20.md","rev":1},
+			"x":3740,
+			"y":1953,
+			"width":440,
+			"height":122,
+			"color":"5"
+		},
+		{
+			"id":"6fa03b657031cb79",
+			"type":"file",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~18.md",
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~18.md","rev":1},
+			"x":3740,
+			"y":1279,
+			"width":440,
+			"height":114,
+			"color":"3"
+		},
+		{
+			"id":"bfee9d040233bed2",
+			"type":"text",
+			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nChoice = 3\nFunction - Function PC Strength >= 50\nJournal ABcm_HH_Mine = 10",
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~18.md","rev":1},
+			"x":3280,
+			"y":1076,
+			"width":385,
+			"height":170,
+			"color":"4"
+		},
+		{
+			"id":"60588e7fc14a1d01",
+			"type":"text",
+			"text":"Player agrees to spare Uveran",
+			"espCard":{"role":"choice","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~18.md","choiceValue":31,"rev":1},
+			"x":4360,
+			"y":1186,
+			"width":320,
+			"height":50,
+			"color":"4"
+		},
+		{
+			"id":"641ad5b95891c993",
+			"type":"text",
+			"text":"Player decides to attack Uveran anyway",
+			"espCard":{"role":"choice","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~18.md","choiceValue":32,"rev":1},
+			"x":4360,
+			"y":1449,
+			"width":320,
+			"height":74,
+			"color":"4"
+		},
+		{
+			"id":"da8bec280ed66af8",
+			"type":"file",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~19.md",
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~19.md","rev":1},
+			"x":3740,
+			"y":1553,
+			"width":440,
+			"height":114,
+			"color":"3"
+		},
+		{
+			"id":"bfec759154300e93",
+			"type":"text",
+			"text":"Disposition = 50\nPC Faction = Hlaalu\nID = ABcm_Uveran\nChoice = 3\nJournal ABcm_HH_Mine = 10",
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~19.md","rev":1},
+			"x":3280,
+			"y":1406,
+			"width":385,
+			"height":146,
+			"color":"4"
+		},
+		{
+			"id":"9cab25c045a84e9c",
+			"type":"text",
+			"text":"Player agrees to spare Uveran",
+			"espCard":{"role":"choice","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~19.md","choiceValue":31,"rev":1},
+			"x":4360,
+			"y":1323,
+			"width":320,
+			"height":50,
+			"color":"4"
+		},
+		{
+			"id":"fdc023c4600de5da",
+			"type":"text",
+			"text":"Player decides to attack Uveran anyway",
+			"espCard":{"role":"choice","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~19.md","choiceValue":32,"rev":1},
+			"x":4360,
+			"y":1586,
+			"width":320,
+			"height":74,
+			"color":"4"
 		},
 		{
 			"id":"e08b60c390a64217",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~16.md",
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~16.md","rev":1},
 			"x":5320,
-			"y":873,
+			"y":1032,
 			"width":440,
-			"height":96,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~16.md","rev":1}
+			"height":138,
+			"color":"3"
 		},
 		{
 			"id":"adcdde523fd39dec",
 			"type":"text",
-			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nChoice = 32\nJournal ABcm_HH_Mine = 10",
+			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nChoice = 31\nJournal ABcm_HH_Mine = 10",
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~16.md","rev":1},
 			"x":4860,
-			"y":848,
+			"y":1130,
 			"width":385,
 			"height":146,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~16.md","rev":1}
+			"color":"4"
 		},
 		{
 			"id":"f01127bc7a6c4dc2",
 			"type":"text",
-			"text":"setfight 100\nStartCombat Player\nGoodbye",
+			"text":"Journal [[ABcm_HH_Mine ~20|ABcm_HH_Mine 20]]",
+			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~16.md","rev":1},
 			"x":5320,
-			"y":999,
+			"y":1200,
+			"width":440,
+			"height":50,
+			"color":"6"
+		},
+		{
+			"id":"13784c5e18f3ab66",
+			"type":"file",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~17.md",
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~17.md","rev":1},
+			"x":5320,
+			"y":1534,
+			"width":440,
+			"height":96,
+			"color":"3"
+		},
+		{
+			"id":"b3515a77e96c67dd",
+			"type":"text",
+			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nChoice = 32\nJournal ABcm_HH_Mine = 10",
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~17.md","rev":1},
+			"x":4860,
+			"y":1509,
+			"width":385,
+			"height":146,
+			"color":"4"
+		},
+		{
+			"id":"19db114949ad8d83",
+			"type":"text",
+			"text":"setfight 100\nStartCombat Player\nGoodbye",
+			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~17.md","rev":1},
+			"x":5320,
+			"y":1660,
 			"width":440,
 			"height":98,
-			"color":"5",
-			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~16.md","rev":1}
+			"color":"5"
 		},
 		{
 			"id":"41861c0d611a9f7d",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~5.md",
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~5.md","rev":1},
 			"x":7180,
-			"y":536,
+			"y":954,
 			"width":440,
 			"height":306,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~5.md","rev":1}
+			"color":"3"
 		},
 		{
 			"id":"47a051423f4469b2",
 			"type":"text",
 			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = crassius curio\nJournal ABcm_HH_Mine = 20",
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~5.md","rev":1},
 			"x":6560,
-			"y":514,
+			"y":992,
 			"width":385,
 			"height":122,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~5.md","rev":1}
+			"color":"4"
 		},
 		{
 			"id":"18efc81cf35f50fc",
 			"type":"text",
 			"text":"Journal [[ABcm_HH_Mine ~30|ABcm_HH_Mine 30]]",
+			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~5.md","rev":1},
 			"x":7180,
-			"y":872,
+			"y":1290,
 			"width":440,
 			"height":50,
-			"color":"6",
-			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~5.md","rev":1}
+			"color":"6"
 		},
 		{
 			"id":"6c716810f8c7198c",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~4.md",
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~4.md","rev":1},
 			"x":9040,
-			"y":659,
+			"y":998,
 			"width":440,
 			"height":258,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~4.md","rev":1}
+			"color":"3"
 		},
 		{
 			"id":"14b365a724e6a273",
 			"type":"text",
 			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nJournal ABcm_HH_Mine = 30",
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~4.md","rev":1},
 			"x":8420,
-			"y":713,
+			"y":1077,
 			"width":385,
 			"height":122,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~4.md","rev":1}
+			"color":"4"
 		},
 		{
 			"id":"b613572969861f6d",
 			"type":"text",
 			"text":"Journal [[ABcm_HH_Mine ~40|ABcm_HH_Mine 40]]",
+			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~4.md","rev":1},
 			"x":9040,
-			"y":947,
+			"y":1286,
 			"width":440,
 			"height":50,
-			"color":"6",
-			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~4.md","rev":1}
-		},
-		{
-			"id":"d78d81ce968818ca",
-			"type":"file",
-			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~2.md",
-			"x":10740,
-			"y":716,
-			"width":440,
-			"height":186,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~2.md","rev":1}
-		},
-		{
-			"id":"4c3def29c255a845",
-			"type":"text",
-			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nJournal ABcm_HH_Mine = 40\nJournal Journal ABcm_HH_MineReport 10",
-			"x":10280,
-			"y":726,
-			"width":385,
-			"height":146,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~2.md","rev":1}
-		},
-		{
-			"id":"7e88cda7f0efe87b",
-			"type":"text",
-			"text":"; StartScript to Wait-One-Day which will give Journal ABcm_HH_MineReport 20\\r",
-			"x":10740,
-			"y":932,
-			"width":440,
-			"height":74,
-			"color":"5",
-			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~2.md","rev":1}
+			"color":"6"
 		},
 		{
 			"id":"68d689aa94b46fee",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~6.md",
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~6.md","rev":1},
 			"x":7800,
-			"y":-130,
+			"y":519,
 			"width":440,
 			"height":330,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~6.md","rev":1}
+			"color":"3"
 		},
 		{
 			"id":"7b4a7e4503302851",
 			"type":"text",
 			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = crassius curio\nJournal ABcm_HH_Mine = 25",
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~6.md","rev":1},
 			"x":7180,
-			"y":19,
+			"y":672,
 			"width":385,
 			"height":122,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~6.md","rev":1}
+			"color":"4"
 		},
 		{
 			"id":"0da0d48bdcb603af",
 			"type":"text",
 			"text":"Journal [[ABcm_HH_Mine ~45|ABcm_HH_Mine 45]]",
+			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~6.md","rev":1},
 			"x":7800,
-			"y":230,
+			"y":879,
 			"width":440,
 			"height":50,
-			"color":"6",
-			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~6.md","rev":1}
+			"color":"6"
+		},
+		{
+			"id":"d78d81ce968818ca",
+			"type":"file",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~2.md",
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~2.md","rev":1},
+			"x":10795,
+			"y":1016,
+			"width":440,
+			"height":186,
+			"color":"3"
+		},
+		{
+			"id":"4c3def29c255a845",
+			"type":"text",
+			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nJournal ABcm_HH_Mine = 40\nJournal Journal ABcm_HH_MineReport 10",
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~2.md","rev":1},
+			"x":10280,
+			"y":1023,
+			"width":385,
+			"height":146,
+			"color":"4"
+		},
+		{
+			"id":"7e88cda7f0efe87b",
+			"type":"text",
+			"text":"Journal [[ABcm_HH_Mine ~50|ABcm_HH_Mine 50]]",
+			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~2.md","rev":1},
+			"x":10795,
+			"y":1232,
+			"width":440,
+			"height":50,
+			"color":"6"
 		},
 		{
 			"id":"9d122c33f7e3794b",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~3.md",
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~3.md","rev":1},
 			"x":9660,
-			"y":-351,
+			"y":634,
 			"width":440,
 			"height":186,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~3.md","rev":1}
+			"color":"3"
 		},
 		{
 			"id":"af1a601ca0011ef4",
 			"type":"text",
 			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = crassius curio\nJournal ABcm_HH_Mine = 45\nJournal Journal ABcm_HH_MineReport 10",
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~3.md","rev":1},
 			"x":9040,
-			"y":-201,
+			"y":643,
 			"width":385,
 			"height":146,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~3.md","rev":1}
+			"color":"4"
 		},
 		{
 			"id":"b175b9429d67d07a",
 			"type":"text",
-			"text":"; StartScript to Wait-One-Day which will give Journal ABcm_HH_MineReport 20\\r",
+			"text":"Journal [[ABcm_HH_Mine ~55|ABcm_HH_Mine 55]]",
+			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~3.md","rev":1},
 			"x":9660,
-			"y":-135,
+			"y":850,
 			"width":440,
-			"height":74,
-			"color":"5",
-			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~3.md","rev":1}
+			"height":50,
+			"color":"6"
 		},
 		{
 			"id":"94c81f6697fdedb4",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~0.md",
-			"x":10740,
-			"y":-16,
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~0.md","rev":1},
+			"x":12495,
+			"y":823,
 			"width":440,
 			"height":114,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~0.md","rev":1}
+			"color":"3"
 		},
 		{
 			"id":"4844bd5757a1a167",
 			"type":"text",
 			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nJournal ABcm_HH_Mine < 60\nJournal ABcm_HH_Mine >= 50\nJournal Journal ABcm_HH_MineReport 20",
-			"x":10280,
-			"y":-14,
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~0.md","rev":1},
+			"x":12035,
+			"y":792,
 			"width":385,
 			"height":170,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~0.md","rev":1}
+			"color":"4"
 		},
 		{
 			"id":"aa778955b8ee4841",
 			"type":"text",
 			"text":"Journal [[ABcm_HH_Mine ~60|ABcm_HH_Mine 60]]",
-			"x":10740,
-			"y":128,
+			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~0.md","rev":1},
+			"x":12495,
+			"y":967,
 			"width":440,
 			"height":50,
-			"color":"6",
-			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~0.md","rev":1}
+			"color":"6"
 		},
 		{
 			"id":"a86316fcec607f36",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~2.md",
-			"x":10740,
-			"y":338,
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~2.md","rev":1},
+			"x":12495,
+			"y":1177,
 			"width":440,
 			"height":138,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~2.md","rev":1}
+			"color":"3"
 		},
 		{
 			"id":"7d5d9a754f5a3405",
 			"type":"text",
 			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = crassius curio\nJournal ABcm_HH_Mine < 60\nJournal ABcm_HH_Mine >= 50\nJournal Journal ABcm_HH_MineReport 20",
-			"x":10280,
-			"y":316,
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~2.md","rev":1},
+			"x":12035,
+			"y":1122,
 			"width":385,
 			"height":170,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~2.md","rev":1}
+			"color":"4"
 		},
 		{
 			"id":"047f6fb71518a623",
 			"type":"text",
 			"text":"Journal [[ABcm_HH_Mine ~60|ABcm_HH_Mine 60]]",
-			"x":10740,
-			"y":506,
+			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~2.md","rev":1},
+			"x":12495,
+			"y":1345,
 			"width":440,
 			"height":50,
-			"color":"6",
-			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~2.md","rev":1}
+			"color":"6"
 		},
 		{
 			"id":"9d15b66bba527705",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~1.md",
-			"x":12600,
-			"y":211,
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~1.md","rev":1},
+			"x":14355,
+			"y":1070,
 			"width":440,
 			"height":96,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~1.md","rev":1}
+			"color":"3"
 		},
 		{
 			"id":"4046d83281683c36",
 			"type":"text",
 			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nJournal ABcm_HH_Mine = 60\nJournal Journal ABcm_HH_MineReport 20",
-			"x":11980,
-			"y":128,
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~1.md","rev":1},
+			"x":13735,
+			"y":987,
 			"width":385,
 			"height":146,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~1.md","rev":1}
+			"color":"4"
 		},
 		{
 			"id":"d22e9389c299e467",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~3.md",
-			"x":12600,
-			"y":467,
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~3.md","rev":1},
+			"x":14355,
+			"y":1326,
 			"width":440,
 			"height":96,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~3.md","rev":1}
+			"color":"3"
 		},
 		{
 			"id":"6d5fa8b82d05aab4",
 			"type":"text",
 			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = crassius curio\nJournal ABcm_HH_Mine = 60\nJournal Journal ABcm_HH_MineReport 20",
-			"x":11980,
-			"y":434,
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~3.md","rev":1},
+			"x":13735,
+			"y":1293,
 			"width":385,
 			"height":146,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Greeting/Greeting 1/Greeting 1 ~3.md","rev":1}
+			"color":"4"
 		},
 		{
 			"id":"d2cb0184913e13c8",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~0.md",
-			"x":13115,
-			"y":-352,
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~0.md","rev":1},
+			"x":14870,
+			"y":508,
 			"width":440,
 			"height":114,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~0.md","rev":1}
+			"color":"3"
 		},
 		{
 			"id":"a3cb6c8b8957d1a7",
 			"type":"text",
 			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = ABcm_Uveran\nJournal ABcm_HH_Mine = 70",
-			"x":12600,
-			"y":-353,
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~0.md","rev":1},
+			"x":14355,
+			"y":506,
 			"width":385,
 			"height":122,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~0.md","rev":1}
+			"color":"4"
 		},
 		{
 			"id":"d2c8da1175548449",
 			"type":"file",
 			"file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~1.md",
-			"x":13115,
-			"y":-78,
+			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~1.md","rev":1},
+			"x":14870,
+			"y":782,
 			"width":440,
 			"height":162,
-			"color":"3",
-			"espCard":{"role":"dialogue","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~1.md","rev":1}
+			"color":"3"
 		},
 		{
 			"id":"9df83e86b31e6c76",
 			"type":"text",
 			"text":"Disposition = 0\nPC Faction = Hlaalu\nID = crassius curio\nJournal ABcm_HH_Mine = 70",
-			"x":12600,
-			"y":-71,
+			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~1.md","rev":1},
+			"x":14355,
+			"y":788,
 			"width":385,
 			"height":122,
-			"color":"4",
-			"espCard":{"role":"gate","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~1.md","rev":1}
+			"color":"4"
 		},
 		{
 			"id":"dcb1f1883e400a38",
 			"type":"text",
 			"text":"Journal [[ABcm_HH_Mine ~100|ABcm_HH_Mine 100]]",
-			"x":13115,
-			"y":114,
+			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~1.md","rev":1},
+			"x":14870,
+			"y":974,
 			"width":440,
 			"height":50,
-			"color":"6",
-			"espCard":{"role":"result","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~1.md","rev":1}
+			"color":"6"
+		},
+		{
+			"id":"1aa2c8dc3c3ef244",
+			"type":"file",
+			"file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~50.md",
+			"espCard":{"role":"journal","file":"TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~50.md","questId":"ABcm_HH_Mine","rev":1},
+			"x":11420,
+			"y":1177,
+			"width":440,
+			"height":160,
+			"color":"6"
 		}
 	],
 	"edges":[
 		{
 			"id":"722ca2a7853a8465",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"72dc8988a1d4c7d0",
 			"fromSide":"right",
 			"toNode":"70d46ecfe21dcc3f",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
 			"id":"22b2a091db9a99ad",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"70d46ecfe21dcc3f",
 			"fromSide":"bottom",
 			"toNode":"07cda6864f89aede",
-			"toSide":"top",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"top"
 		},
 		{"id":"cc78d5e02edf43bc","fromNode":"70d46ecfe21dcc3f","fromSide":"right","toNode":"00be3d7067103108","toSide":"left"},
 		{
 			"id":"3319fa81c2a1e691",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"ec35a3a33b26287f",
 			"fromSide":"right",
 			"toNode":"9ae0266c8a11af90",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
 			"id":"6f6dfeb283d91ae0",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"9ae0266c8a11af90",
 			"fromSide":"bottom",
 			"toNode":"f2512dbd781f6841",
-			"toSide":"top",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"top"
 		},
 		{"id":"d8934239aaf46111","fromNode":"9ae0266c8a11af90","fromSide":"right","toNode":"00be3d7067103108","toSide":"left"},
 		{
-			"id":"3336eef181630793",
-			"fromNode":"031c438570a4c92d",
-			"fromSide":"right",
-			"toNode":"b86498e4253a22fe",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
-		},
-		{"id":"6742607d789d2a75","fromNode":"b86498e4253a22fe","fromSide":"right","toNode":"2b34aaed3304c699","toSide":"left"},
-		{"id":"afe885c8de849c04","fromNode":"b86498e4253a22fe","fromSide":"right","toNode":"b00ecde2961b4fa6","toSide":"left"},
-		{"id":"bc9acb21990fbc3d","fromNode":"b86498e4253a22fe","fromSide":"right","toNode":"0e86f3af385eca07","toSide":"left"},
-		{
-			"id":"af6b738fbde21e77",
-			"fromNode":"8803c1ecaf6839aa",
-			"fromSide":"right",
-			"toNode":"7cd182dd07708501",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
-		},
-		{
-			"id":"40dbb9163281f768",
-			"fromNode":"7cd182dd07708501",
-			"fromSide":"bottom",
-			"toNode":"153d73627731c904",
-			"toSide":"top",
-			"espCard":{"role":"derived","rev":1}
-		},
-		{
-			"id":"a691303203a6ded8",
-			"fromNode":"b26b7c39a469832b",
-			"fromSide":"right",
-			"toNode":"6f4dfa20b3e86d00",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
-		},
-		{
-			"id":"4a2f97ec477303fe",
-			"fromNode":"6f4dfa20b3e86d00",
-			"fromSide":"bottom",
-			"toNode":"55abc04769d7a355",
-			"toSide":"top",
-			"espCard":{"role":"derived","rev":1}
-		},
-		{
-			"id":"86c33c71df43e013",
-			"fromNode":"7c9698163dc41da8",
-			"fromSide":"right",
-			"toNode":"744ed19fa4e026e3",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
-		},
-		{
-			"id":"f00967febfa012ec",
-			"fromNode":"744ed19fa4e026e3",
-			"fromSide":"bottom",
-			"toNode":"b3d351285166fb06",
-			"toSide":"top",
-			"espCard":{"role":"derived","rev":1}
-		},
-		{"id":"6212cf5c6aa060de","fromNode":"744ed19fa4e026e3","fromSide":"right","toNode":"629efcc9990553ff","toSide":"left"},
-		{
 			"id":"d543e1d19314dabb",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"a94cedbe18d19f2e",
 			"fromSide":"right",
 			"toNode":"c547e0b97f12f911",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
-			"id":"40ec91382f9adc40",
-			"fromNode":"c547e0b97f12f911",
-			"fromSide":"bottom",
-			"toNode":"e251a90024975040",
-			"toSide":"top",
-			"espCard":{"role":"derived","rev":1}
-		},
-		{
-			"id":"3545f96258b0a0d0",
-			"fromNode":"4bc5eb58413a79ce",
+			"id":"ff8eb9a4b8902960",
+			"espCard":{"role":"derived","rev":1},
+			"fromNode":"f833e5c88e23e3bc",
 			"fromSide":"right",
-			"toNode":"86837a615f90b735",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toNode":"b5e99b7117dffd4f",
+			"toSide":"left"
+		},
+		{"id":"a87593d052e575f2","fromNode":"b5e99b7117dffd4f","fromSide":"right","toNode":"1d86e31a5b47c8b0","toSide":"left"},
+		{"id":"f8af785ac6ab6362","fromNode":"b5e99b7117dffd4f","fromSide":"right","toNode":"28404e134b116cdf","toSide":"left"},
+		{"id":"716577f9d8ceb21d","fromNode":"b5e99b7117dffd4f","fromSide":"right","toNode":"49ff8ff624158cde","toSide":"left"},
+		{
+			"id":"af6b738fbde21e77",
+			"espCard":{"role":"derived","rev":1},
+			"fromNode":"8803c1ecaf6839aa",
+			"fromSide":"right",
+			"toNode":"7cd182dd07708501",
+			"toSide":"left"
 		},
 		{
-			"id":"e71b40173e82fc59",
-			"fromNode":"86837a615f90b735",
+			"id":"40dbb9163281f768",
+			"espCard":{"role":"derived","rev":1},
+			"fromNode":"7cd182dd07708501",
 			"fromSide":"bottom",
-			"toNode":"deef062658b5d3a0",
-			"toSide":"top",
-			"espCard":{"role":"derived","rev":1}
+			"toNode":"153d73627731c904",
+			"toSide":"top"
+		},
+		{
+			"id":"a691303203a6ded8",
+			"espCard":{"role":"derived","rev":1},
+			"fromNode":"b26b7c39a469832b",
+			"fromSide":"right",
+			"toNode":"6f4dfa20b3e86d00",
+			"toSide":"left"
+		},
+		{
+			"id":"4a2f97ec477303fe",
+			"espCard":{"role":"derived","rev":1},
+			"fromNode":"6f4dfa20b3e86d00",
+			"fromSide":"bottom",
+			"toNode":"55abc04769d7a355",
+			"toSide":"top"
+		},
+		{
+			"id":"86c33c71df43e013",
+			"espCard":{"role":"derived","rev":1},
+			"fromNode":"7c9698163dc41da8",
+			"fromSide":"right",
+			"toNode":"744ed19fa4e026e3",
+			"toSide":"left"
+		},
+		{
+			"id":"f00967febfa012ec",
+			"espCard":{"role":"derived","rev":1},
+			"fromNode":"744ed19fa4e026e3",
+			"fromSide":"bottom",
+			"toNode":"b3d351285166fb06",
+			"toSide":"top"
 		},
 		{
 			"id":"d3294d8d20eb5e15",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"bf2f9c1b914c35a9",
 			"fromSide":"right",
 			"toNode":"e4c025fab16aa5a2",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
 			"id":"470a34310c6709e3",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"e4c025fab16aa5a2",
 			"fromSide":"bottom",
 			"toNode":"48e7a0653573a8b7",
-			"toSide":"top",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"top"
 		},
 		{"id":"1f1eea1b5678a6ed","fromNode":"e4c025fab16aa5a2","fromSide":"right","toNode":"629efcc9990553ff","toSide":"left"},
 		{
-			"id":"1dc30c809e2a518c",
-			"fromNode":"bfec759154300e93",
-			"fromSide":"right",
-			"toNode":"da8bec280ed66af8",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
-		},
-		{
-			"id":"285fe90a7c2d6b54",
-			"fromNode":"da8bec280ed66af8",
-			"fromSide":"bottom",
-			"toNode":"4d96369f9da4a2cd",
-			"toSide":"top",
-			"espCard":{"role":"derived","rev":1}
-		},
-		{
-			"id":"cd8f9c4854386100",
-			"fromNode":"b3515a77e96c67dd",
-			"fromSide":"right",
-			"toNode":"13784c5e18f3ab66",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
-		},
-		{"id":"3eb3b66d58e88dd5","fromNode":"13784c5e18f3ab66","fromSide":"right","toNode":"6a6be94ebb7e4316","toSide":"left"},
-		{"id":"94fd13dc7b883420","fromNode":"13784c5e18f3ab66","fromSide":"right","toNode":"9799a55c7afe3784","toSide":"left"},
-		{
-			"id":"b787faafc936edeb",
-			"fromNode":"bfee9d040233bed2",
-			"fromSide":"right",
-			"toNode":"6fa03b657031cb79",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
-		},
-		{"id":"d196b468ebf36b48","fromNode":"6fa03b657031cb79","fromSide":"right","toNode":"a31686a5a1fbcfb9","toSide":"left"},
-		{"id":"2d269f31e9c6bd41","fromNode":"6fa03b657031cb79","fromSide":"right","toNode":"438f66ed75754f17","toSide":"left"},
-		{
 			"id":"8bee2892df2f15d6",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"5bc3dd15fe157d9f",
 			"fromSide":"right",
 			"toNode":"4e153a14a74f8f64",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
 			"id":"dee03c79a931b641",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"4e153a14a74f8f64",
 			"fromSide":"bottom",
 			"toNode":"e73c9d2b11b77121",
-			"toSide":"top",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"top"
 		},
-		{"id":"b6f552bace6d5742","fromNode":"4e153a14a74f8f64","fromSide":"right","toNode":"629efcc9990553ff","toSide":"left"},
+		{
+			"id":"3545f96258b0a0d0",
+			"espCard":{"role":"derived","rev":1},
+			"fromNode":"4bc5eb58413a79ce",
+			"fromSide":"right",
+			"toNode":"86837a615f90b735",
+			"toSide":"left"
+		},
+		{
+			"id":"e71b40173e82fc59",
+			"espCard":{"role":"derived","rev":1},
+			"fromNode":"86837a615f90b735",
+			"fromSide":"bottom",
+			"toNode":"deef062658b5d3a0",
+			"toSide":"top"
+		},
+		{"id":"e5b50ca72785f051","fromNode":"86837a615f90b735","fromSide":"right","toNode":"629efcc9990553ff","toSide":"left"},
+		{
+			"id":"3336eef181630793",
+			"espCard":{"role":"derived","rev":1},
+			"fromNode":"031c438570a4c92d",
+			"fromSide":"right",
+			"toNode":"b86498e4253a22fe",
+			"toSide":"left"
+		},
+		{
+			"id":"da8c373fffaef053",
+			"espCard":{"role":"derived","rev":1},
+			"fromNode":"b86498e4253a22fe",
+			"fromSide":"bottom",
+			"toNode":"7f52be0f2a5817db",
+			"toSide":"top"
+		},
+		{
+			"id":"b787faafc936edeb",
+			"espCard":{"role":"derived","rev":1},
+			"fromNode":"bfee9d040233bed2",
+			"fromSide":"right",
+			"toNode":"6fa03b657031cb79",
+			"toSide":"left"
+		},
+		{"id":"32d8fbcd18c4c109","fromNode":"6fa03b657031cb79","fromSide":"right","toNode":"60588e7fc14a1d01","toSide":"left"},
+		{"id":"ddfa9b00e712f828","fromNode":"6fa03b657031cb79","fromSide":"right","toNode":"641ad5b95891c993","toSide":"left"},
+		{
+			"id":"1dc30c809e2a518c",
+			"espCard":{"role":"derived","rev":1},
+			"fromNode":"bfec759154300e93",
+			"fromSide":"right",
+			"toNode":"da8bec280ed66af8",
+			"toSide":"left"
+		},
+		{"id":"5569650333873217","fromNode":"da8bec280ed66af8","fromSide":"right","toNode":"9cab25c045a84e9c","toSide":"left"},
+		{"id":"23eba1d94d6143a1","fromNode":"da8bec280ed66af8","fromSide":"right","toNode":"fdc023c4600de5da","toSide":"left"},
 		{
 			"id":"5cdb3e4a231892a6",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"adcdde523fd39dec",
 			"fromSide":"right",
 			"toNode":"e08b60c390a64217",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
 			"id":"ba2ee277344847fb",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"e08b60c390a64217",
 			"fromSide":"bottom",
 			"toNode":"f01127bc7a6c4dc2",
-			"toSide":"top",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"top"
+		},
+		{"id":"9d5ceba3ba25790f","fromNode":"e08b60c390a64217","fromSide":"right","toNode":"629efcc9990553ff","toSide":"left"},
+		{
+			"id":"cd8f9c4854386100",
+			"espCard":{"role":"derived","rev":1},
+			"fromNode":"b3515a77e96c67dd",
+			"fromSide":"right",
+			"toNode":"13784c5e18f3ab66",
+			"toSide":"left"
+		},
+		{
+			"id":"ee454d51d2f6c44d",
+			"espCard":{"role":"derived","rev":1},
+			"fromNode":"13784c5e18f3ab66",
+			"fromSide":"bottom",
+			"toNode":"19db114949ad8d83",
+			"toSide":"top"
 		},
 		{
 			"id":"d897c6cad4ae1cdc",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"47a051423f4469b2",
 			"fromSide":"right",
 			"toNode":"41861c0d611a9f7d",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
 			"id":"9c2c6f3907da672b",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"41861c0d611a9f7d",
 			"fromSide":"bottom",
 			"toNode":"18efc81cf35f50fc",
-			"toSide":"top",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"top"
 		},
 		{"id":"3dc637264ad30774","fromNode":"41861c0d611a9f7d","fromSide":"right","toNode":"ef3a3cd2c635e552","toSide":"left"},
 		{
 			"id":"5404bf128de15b42",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"14b365a724e6a273",
 			"fromSide":"right",
 			"toNode":"6c716810f8c7198c",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
 			"id":"1e70360609d2ccca",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"6c716810f8c7198c",
 			"fromSide":"bottom",
 			"toNode":"b613572969861f6d",
-			"toSide":"top",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"top"
 		},
 		{"id":"ad272e6bb26d9b5d","fromNode":"6c716810f8c7198c","fromSide":"right","toNode":"a2e63f9b216f06d1","toSide":"left"},
 		{
-			"id":"2261a4e3ec228765",
-			"fromNode":"4c3def29c255a845",
-			"fromSide":"right",
-			"toNode":"d78d81ce968818ca",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
-		},
-		{
-			"id":"7223fd4e8191e72e",
-			"fromNode":"d78d81ce968818ca",
-			"fromSide":"bottom",
-			"toNode":"7e88cda7f0efe87b",
-			"toSide":"top",
-			"espCard":{"role":"derived","rev":1}
-		},
-		{
 			"id":"863012d1e4f1ab1b",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"7b4a7e4503302851",
 			"fromSide":"right",
 			"toNode":"68d689aa94b46fee",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
 			"id":"85b694dc4a2449ce",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"68d689aa94b46fee",
 			"fromSide":"bottom",
 			"toNode":"0da0d48bdcb603af",
-			"toSide":"top",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"top"
 		},
 		{"id":"dd1ccb0b470cfdfd","fromNode":"68d689aa94b46fee","fromSide":"right","toNode":"918481d2be3ffd74","toSide":"left"},
 		{
+			"id":"2261a4e3ec228765",
+			"espCard":{"role":"derived","rev":1},
+			"fromNode":"4c3def29c255a845",
+			"fromSide":"right",
+			"toNode":"d78d81ce968818ca",
+			"toSide":"left"
+		},
+		{
+			"id":"7223fd4e8191e72e",
+			"espCard":{"role":"derived","rev":1},
+			"fromNode":"d78d81ce968818ca",
+			"fromSide":"bottom",
+			"toNode":"7e88cda7f0efe87b",
+			"toSide":"top"
+		},
+		{"id":"6533d248520c21b6","fromNode":"d78d81ce968818ca","fromSide":"right","toNode":"1aa2c8dc3c3ef244","toSide":"left"},
+		{
 			"id":"7c549c1df12624a9",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"af1a601ca0011ef4",
 			"fromSide":"right",
 			"toNode":"9d122c33f7e3794b",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
 			"id":"a9d32ce6586779b6",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"9d122c33f7e3794b",
 			"fromSide":"bottom",
 			"toNode":"b175b9429d67d07a",
-			"toSide":"top",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"top"
 		},
+		{"id":"16e573c22bf5e948","fromNode":"9d122c33f7e3794b","fromSide":"right","toNode":"e6d2e7056e338461","toSide":"left"},
 		{
 			"id":"85d60fbf711713f1",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"4844bd5757a1a167",
 			"fromSide":"right",
 			"toNode":"94c81f6697fdedb4",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
 			"id":"1512b1ee61792b50",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"94c81f6697fdedb4",
 			"fromSide":"bottom",
 			"toNode":"aa778955b8ee4841",
-			"toSide":"top",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"top"
 		},
 		{"id":"42fcc023b2044211","fromNode":"94c81f6697fdedb4","fromSide":"right","toNode":"7c838835ef65411b","toSide":"left"},
 		{
 			"id":"5309fbd0ea248e9e",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"7d5d9a754f5a3405",
 			"fromSide":"right",
 			"toNode":"a86316fcec607f36",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
 			"id":"b621b55d66fd556d",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"a86316fcec607f36",
 			"fromSide":"bottom",
 			"toNode":"047f6fb71518a623",
-			"toSide":"top",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"top"
 		},
 		{"id":"ee10abbb857e1a51","fromNode":"a86316fcec607f36","fromSide":"right","toNode":"7c838835ef65411b","toSide":"left"},
 		{
 			"id":"5cf7b73738db0f49",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"4046d83281683c36",
 			"fromSide":"right",
 			"toNode":"9d15b66bba527705",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
 			"id":"117082bc9b41eb28",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"6d5fa8b82d05aab4",
 			"fromSide":"right",
 			"toNode":"d22e9389c299e467",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
 			"id":"5d856e6d1126bcbd",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"a3cb6c8b8957d1a7",
 			"fromSide":"right",
 			"toNode":"d2cb0184913e13c8",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
 			"id":"fd9c577402c9dd2c",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"9df83e86b31e6c76",
 			"fromSide":"right",
 			"toNode":"d2c8da1175548449",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
 			"id":"fab23b2bb5481cb1",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"d2c8da1175548449",
 			"fromSide":"bottom",
 			"toNode":"dcb1f1883e400a38",
-			"toSide":"top",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"top"
 		},
 		{"id":"86a0e02c254488dc","fromNode":"d2c8da1175548449","fromSide":"right","toNode":"bd25743a0d0d43b4","toSide":"left"},
-		{"id":"9abb72e462071794","fromNode":"2b34aaed3304c699","fromSide":"right","toNode":"8803c1ecaf6839aa","toSide":"left"},
-		{"id":"b278ac710a5a949f","fromNode":"2b34aaed3304c699","fromSide":"right","toNode":"b26b7c39a469832b","toSide":"left"},
-		{"id":"bc03235d8269b4b1","fromNode":"2b34aaed3304c699","fromSide":"right","toNode":"7c9698163dc41da8","toSide":"left"},
-		{"id":"9ddfb961a8e5daad","fromNode":"2b34aaed3304c699","fromSide":"right","toNode":"a94cedbe18d19f2e","toSide":"left"},
-		{"id":"d254b24b0fa7ad7f","fromNode":"b00ecde2961b4fa6","fromSide":"right","toNode":"4bc5eb58413a79ce","toSide":"left"},
-		{"id":"929efdefe6db790b","fromNode":"0e86f3af385eca07","fromSide":"right","toNode":"b3515a77e96c67dd","toSide":"left"},
-		{"id":"01b5a87762e7398f","fromNode":"0e86f3af385eca07","fromSide":"right","toNode":"bfec759154300e93","toSide":"left"},
-		{"id":"38c575106c5f7810","fromNode":"6a6be94ebb7e4316","fromSide":"right","toNode":"5bc3dd15fe157d9f","toSide":"left"},
-		{"id":"da9c46f9067c0a97","fromNode":"9799a55c7afe3784","fromSide":"right","toNode":"adcdde523fd39dec","toSide":"left"},
-		{"id":"88c23def5f51534d","fromNode":"a31686a5a1fbcfb9","fromSide":"right","toNode":"5bc3dd15fe157d9f","toSide":"left"},
-		{"id":"86696152f3f58bbe","fromNode":"438f66ed75754f17","fromSide":"right","toNode":"adcdde523fd39dec","toSide":"left"},
+		{"id":"3333348106eea29f","fromNode":"1d86e31a5b47c8b0","fromSide":"right","toNode":"8803c1ecaf6839aa","toSide":"left"},
+		{"id":"8bb141c074c6dcfc","fromNode":"1d86e31a5b47c8b0","fromSide":"right","toNode":"b26b7c39a469832b","toSide":"left"},
+		{"id":"5ea334c008de358a","fromNode":"1d86e31a5b47c8b0","fromSide":"right","toNode":"7c9698163dc41da8","toSide":"left"},
+		{"id":"dd67839942baf7ab","fromNode":"1d86e31a5b47c8b0","fromSide":"right","toNode":"bf2f9c1b914c35a9","toSide":"left"},
+		{"id":"49f4b8f09560fbe8","fromNode":"28404e134b116cdf","fromSide":"right","toNode":"5bc3dd15fe157d9f","toSide":"left"},
+		{"id":"2807ccc3e10cc6f9","fromNode":"28404e134b116cdf","fromSide":"right","toNode":"4bc5eb58413a79ce","toSide":"left"},
+		{"id":"7caf6116c022dd0c","fromNode":"49ff8ff624158cde","fromSide":"right","toNode":"bfee9d040233bed2","toSide":"left"},
+		{"id":"71a17ead781dce87","fromNode":"49ff8ff624158cde","fromSide":"right","toNode":"031c438570a4c92d","toSide":"left"},
+		{"id":"ad4b2045e737e74f","fromNode":"49ff8ff624158cde","fromSide":"right","toNode":"bfec759154300e93","toSide":"left"},
+		{"id":"b509988b1b90a3b9","fromNode":"60588e7fc14a1d01","fromSide":"right","toNode":"adcdde523fd39dec","toSide":"left"},
+		{"id":"6a1a437b93d3e5db","fromNode":"641ad5b95891c993","fromSide":"right","toNode":"b3515a77e96c67dd","toSide":"left"},
+		{"id":"826e817f8c1da7f7","fromNode":"9cab25c045a84e9c","fromSide":"right","toNode":"adcdde523fd39dec","toSide":"left"},
+		{"id":"d3db2260229458b2","fromNode":"fdc023c4600de5da","fromSide":"right","toNode":"b3515a77e96c67dd","toSide":"left"},
 		{
-			"id":"db115d3aba4f0320",
+			"id":"2e7df4d2884e17f8",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"00be3d7067103108",
 			"fromSide":"right",
-			"toNode":"031c438570a4c92d",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toNode":"a94cedbe18d19f2e",
+			"toSide":"left"
+		},
+		{
+			"id":"ea5ecc3b61e7f077",
+			"espCard":{"role":"derived","rev":1},
+			"fromNode":"00be3d7067103108",
+			"fromSide":"right",
+			"toNode":"f833e5c88e23e3bc",
+			"toSide":"left"
 		},
 		{
 			"id":"67d6c16ebea103b0",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"ef3a3cd2c635e552",
 			"fromSide":"right",
 			"toNode":"14b365a724e6a273",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
-		},
-		{
-			"id":"9e0f82f3337c9b13",
-			"fromNode":"a2e63f9b216f06d1",
-			"fromSide":"right",
-			"toNode":"4c3def29c255a845",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
-		},
-		{
-			"id":"65dc7c5f935548f5",
-			"fromNode":"918481d2be3ffd74",
-			"fromSide":"right",
-			"toNode":"af1a601ca0011ef4",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
 			"id":"b938b705bbac7fbd",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"e6d2e7056e338461",
 			"fromSide":"right",
 			"toNode":"4844bd5757a1a167",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
 			"id":"eb9878d0f94a18b6",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"e6d2e7056e338461",
 			"fromSide":"right",
 			"toNode":"7d5d9a754f5a3405",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
 			"id":"03d83c42106674a2",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"7c838835ef65411b",
 			"fromSide":"right",
 			"toNode":"4046d83281683c36",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
 			"id":"27cd87326e25b3a0",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"2c56e68e138d0e0e",
 			"fromSide":"right",
 			"toNode":"9df83e86b31e6c76",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
 			"id":"9c87af6458bbe15e",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"2c56e68e138d0e0e",
 			"fromSide":"right",
 			"toNode":"a3cb6c8b8957d1a7",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{"id":"fb004c8036a3f006","fromNode":"629efcc9990553ff","fromSide":"right","toNode":"47a051423f4469b2","toSide":"left"},
 		{"id":"9e3d2f41d219afdf","fromNode":"fc973ca84d6fa08a","fromSide":"right","toNode":"7b4a7e4503302851","toSide":"left"},
+		{"id":"9e0f82f3337c9b13","fromNode":"a2e63f9b216f06d1","fromSide":"right","toNode":"4c3def29c255a845","toSide":"left"},
+		{"id":"65dc7c5f935548f5","fromNode":"918481d2be3ffd74","fromSide":"right","toNode":"af1a601ca0011ef4","toSide":"left"},
 		{"id":"2925c8a222956ada","fromNode":"1aa2c8dc3c3ef244","fromSide":"right","toNode":"4844bd5757a1a167","toSide":"left"},
 		{"id":"593b803f9f58e1f9","fromNode":"1aa2c8dc3c3ef244","fromSide":"right","toNode":"7d5d9a754f5a3405","toSide":"left"},
 		{"id":"0ecbadc00005135c","fromNode":"7c838835ef65411b","fromSide":"right","toNode":"6d5fa8b82d05aab4","toSide":"left"},
-		{"id":"154a518d36fb669b","fromNode":"00be3d7067103108","fromSide":"right","toNode":"bfee9d040233bed2","toSide":"left"},
-		{"id":"a70d6ffba607472d","fromNode":"00be3d7067103108","fromSide":"right","toNode":"bf2f9c1b914c35a9","toSide":"left"},
 		{
 			"id":"2b7e648e794f52fe",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"629efcc9990553ff",
 			"fromSide":"right",
 			"toNode":"fc973ca84d6fa08a",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
-		},
-		{
-			"id":"40983b492d79fc1d",
-			"fromNode":"918481d2be3ffd74",
-			"fromSide":"right",
-			"toNode":"1aa2c8dc3c3ef244",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
-		},
-		{
-			"id":"e8303c11109cef83",
-			"fromNode":"1aa2c8dc3c3ef244",
-			"fromSide":"right",
-			"toNode":"e6d2e7056e338461",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		},
 		{
 			"id":"f072a3f17b6b3d15",
+			"espCard":{"role":"derived","rev":1},
 			"fromNode":"7c838835ef65411b",
 			"fromSide":"right",
 			"toNode":"2c56e68e138d0e0e",
-			"toSide":"left",
-			"espCard":{"role":"derived","rev":1}
+			"toSide":"left"
 		}
 	],
 	"metadata":{

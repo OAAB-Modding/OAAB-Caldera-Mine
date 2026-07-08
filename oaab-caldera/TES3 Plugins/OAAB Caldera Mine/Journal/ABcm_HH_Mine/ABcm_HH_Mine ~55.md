@@ -13,4 +13,4 @@ canvas:
   - "[[House Hlaalu_ Caldera Mine.canvas]]"
 House Hlaalu_ Caldera Mine: []
 ---
-Crassius thanks player for bringing [[report]] and asks the player to wait a day.
+Crassius Curio thanked me for bringing him the lost report. He said to wait a day and then speak to him again.

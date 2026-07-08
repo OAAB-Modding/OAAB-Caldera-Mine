@@ -22,6 +22,6 @@ canvas:
 House Hlaalu_ Caldera Mine:
   - "[[ABcm_HH_Mine ~30]]"
 ---
-So Uveran will join with House Hlaalu. Excellent work, sweetie. He will be instated as the new town reeve of Caldera. Replacing Odral Helvi.
+Solis Uveran will join House Hlaalu. Excellent work, sweetie. He will be instated as the new town reeve of Caldera. Replacing Odral Helvi
 
-; Having an Uveran on their side isn’t good enough and they need to find evidence that the Uveran family had prior knowledge of the ebony deposit to substantiate that the family had mineral rights to the land they claimed. Go talk to Uveran to get more information.
+In order to remove House Redoran's claim once and for all, we need evidence that the Uveran family had prior knowledge of the ebony deposit. This will substantiate that they had mineral rights to the land they claimed. Go see if Solis has any ideas.

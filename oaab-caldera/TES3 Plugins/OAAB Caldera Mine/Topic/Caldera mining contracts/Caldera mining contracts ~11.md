@@ -5,8 +5,7 @@ Topic: Caldera mining contracts
 DiagID:
 PrevID:
 Disposition: 0
-ID:
-  - ABcm_Uveran
+ID: ABcm_Uveran
 Race:
 Sex:
 Class:
@@ -15,22 +14,16 @@ Rank:
 Cell:
 PC Faction: Hlaalu
 PC Rank:
-Result: |-
-  ; Any dead family members (FAIL)
+Result: |
+  ; Check reputation (FAIL)
   ModDisposition -10
   Goodbye
-Function0: Journal
-Variable0: ABcm_HH_Mine = 10
-Function1: Dead
-Variable1: rirns uveran = 0
+Function0: Function
+Variable0: Choice = 1
+Function1: Journal
+Variable1: ABcm_HH_Mine = 10
 Function2: Function
-Variable2: Choice = 1
-Function3:
-  - Dead
-Variable3: terenu uveran = 0
-Function4:
-  - Dead
-Variable4: vilvyni uveran = 0
+Variable2: Reputation < 10
 canvas:
   - "[[House Hlaalu_ Caldera Mine.canvas]]"
 House Hlaalu_ Caldera Mine: []

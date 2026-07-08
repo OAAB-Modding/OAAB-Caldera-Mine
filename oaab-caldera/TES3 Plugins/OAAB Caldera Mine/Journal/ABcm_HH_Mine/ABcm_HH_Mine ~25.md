@@ -13,4 +13,4 @@ canvas:
   - "[[House Hlaalu_ Caldera Mine.canvas]]"
 House Hlaalu_ Caldera Mine: []
 ---
-Killed Uveran.
+I was not able to convince Solis Uveran to join House Hlaalu. So I killed him instead. I should see what Crassius Curio wants to do next.

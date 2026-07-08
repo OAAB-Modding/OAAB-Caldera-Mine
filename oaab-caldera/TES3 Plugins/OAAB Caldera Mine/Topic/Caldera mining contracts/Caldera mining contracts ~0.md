@@ -24,4 +24,4 @@ canvas:
   - "[[House Hlaalu_ Caldera Mine.canvas]]"
 House Hlaalu_ Caldera Mine: []
 ---
-Thank you for protecting my ancestral home. You should let Crassius Curio know what happened here.
+Thank you for protecting my ancestral home. You should let Crassius Curio know what happened.

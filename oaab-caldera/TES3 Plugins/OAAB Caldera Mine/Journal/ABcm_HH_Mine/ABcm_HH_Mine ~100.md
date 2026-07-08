@@ -13,4 +13,4 @@ canvas:
   - "[[House Hlaalu_ Caldera Mine.canvas]]"
 House Hlaalu_ Caldera Mine: []
 ---
-Crassius thanks player for saving [[Caldera]] Mine.
+Crassius Curio thanked me for saving Caldera mine.

@@ -13,4 +13,4 @@ canvas:
   - "[[House Hlaalu_ Caldera Mine.canvas]]"
 House Hlaalu_ Caldera Mine: []
 ---
-Informed Crassius that Uveran joined HH. Crassius sends player to talk to Uveran about the mine [[report]].
+Now Crassius Curio wants me to find out whether Solis Uveran has any information about his family having prior knowledge of the ebony deposit in Caldera.

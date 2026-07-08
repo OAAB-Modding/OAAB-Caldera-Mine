@@ -27,4 +27,4 @@ canvas:
 House Hlaalu_ Caldera Mine:
   - "[[ABcm_HH_Mine ~10]]"
 ---
-; Curio tells you that a Redoran with claims to [[Caldera]] has surfaced in Ald-ruhn. You are sent to either convince them to defect to HH or kill them.
+You did a wonderful job handling that mess with Odral Helvi. But now a Redoran with claims to Caldera has surfaced in Ald-ruhn. Use your wiles to convince them to join House Hlaalu. I expect Solis Uveran will be in the Council Hall.

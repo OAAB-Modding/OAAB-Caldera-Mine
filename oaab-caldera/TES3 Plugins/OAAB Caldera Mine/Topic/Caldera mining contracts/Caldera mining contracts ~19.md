@@ -4,9 +4,8 @@ Type: Topic
 Topic: Caldera mining contracts
 DiagID:
 PrevID:
-Disposition: 0
-ID:
-  - ABcm_Uveran
+Disposition: 50
+ID: ABcm_Uveran
 Race:
 Sex:
 Class:
@@ -15,17 +14,15 @@ Rank:
 Cell:
 PC Faction: Hlaalu
 PC Rank:
-Result: |-
-  ; Check strength and disposition (FAIL)
-  setfight 100
-  StartCombat Player
-  Goodbye
-Function0: Journal
-Variable0: ABcm_HH_Mine = 10
-Function1: Function
-Variable1: Choice = 3
+Result: "Choice \"Player agrees to spare Uveran\" 31 \"Player decides to attack Uveran anyway\" 32\"\r
+
+  ; Check disposition (SUCCESS)"
+Function0: Function
+Variable0: Choice = 3
+Function1: Journal
+Variable1: ABcm_HH_Mine = 10
 canvas:
   - "[[House Hlaalu_ Caldera Mine.canvas]]"
 House Hlaalu_ Caldera Mine: []
 ---
-Then die!
+Wait, wait. Can't we talk about this? I'm no enemy to House Hlaalu.

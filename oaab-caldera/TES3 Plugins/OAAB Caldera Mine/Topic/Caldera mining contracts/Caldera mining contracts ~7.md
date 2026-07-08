@@ -29,4 +29,4 @@ House Hlaalu_ Caldera Mine:
 ---
 Despite your bungling with those suspicious shipments of [[ebony]], it seems Odral Helvi simply cannot help himself. He landed in hot water with [[the Empire]]. I didn't get all the details, but last I heard he was on a prison ship. So we have other [[matters to discuss]].
 
-; Curio tells you that a Redoran with claims to [[Caldera]] has surfaced in Ald-ruhn. You are sent to either convince them to defect to HH or kill them.
+A Redoran with claims to Caldera has surfaced in Ald-ruhn. Use your wiles to convince them to join House Hlaalu. I expect Solis Uveran will be in the Council Hall.
