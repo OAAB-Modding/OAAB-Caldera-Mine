@@ -10,4 +10,4 @@ Quest Name: true
 Finished: false
 Restart: false
 ---
-House Hlaalu: Caldera Mine
+[[House Hlaalu]]: [[Caldera]] Mine

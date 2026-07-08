@@ -6,7 +6,7 @@
       {
         "id": "9b58fef0c3b98d9c",
         "type": "tabs",
-        "dimension": 44.49233716475096,
+        "dimension": 49.42528735632184,
         "children": [
           {
             "id": "298f02412581984f",
@@ -16,9 +16,9 @@
               "state": {
                 "file": "TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/HH Caldera Mine.canvas",
                 "viewState": {
-                  "x": 116.1042073186731,
-                  "y": -125.35347289678296,
-                  "zoom": -0.02823884579974212
+                  "x": 831.900797946805,
+                  "y": -161.66965121586503,
+                  "zoom": -0.045608367443595976
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -28,9 +28,9 @@
         ]
       },
       {
-        "id": "dd3471a662121401",
+        "id": "88da1c865e80477c",
         "type": "tabs",
-        "dimension": 55.507662835249036,
+        "dimension": 50.57471264367817,
         "children": [
           {
             "id": "18c133c79d419d1a",
@@ -38,12 +38,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TES3 Plugins/OAAB Caldera Mine/Topics/Caldera mining contracts/Caldera mining contracts ~0.md",
+                "file": "TES3 Plugins/OAAB Caldera Mine/Objects/NPCs/Uveran.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caldera mining contracts ~0"
+              "title": "Uveran"
             }
           }
         ]
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/HH Caldera Mine.canvas",
+                "file": "TES3 Plugins/OAAB Caldera Mine/Topics/Caldera mining contracts/Caldera mining contracts ~1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HH Caldera Mine"
+              "title": "Backlinks for Caldera mining contracts ~1"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/HH Caldera Mine.canvas",
+                "file": "TES3 Plugins/OAAB Caldera Mine/Topics/Caldera mining contracts/Caldera mining contracts ~1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HH Caldera Mine"
+              "title": "Outgoing links from Caldera mining contracts ~1"
             }
           },
           {
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/HH Caldera Mine.canvas",
+                "file": "TES3 Plugins/OAAB Caldera Mine/Topics/Caldera mining contracts/Caldera mining contracts ~1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HH Caldera Mine"
+              "title": "Outline of Caldera mining contracts ~1"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/HH Caldera Mine.canvas"
+                "file": "TES3 Plugins/OAAB Caldera Mine/Topics/Caldera mining contracts/Caldera mining contracts ~1.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for HH Caldera Mine"
+              "title": "File properties for Caldera mining contracts ~1"
             }
           }
         ],
@@ -221,23 +221,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "298f02412581984f",
+  "active": "18c133c79d419d1a",
   "lastOpenFiles": [
-    "TES3 Plugins/OAAB Caldera Mine/Topics/Caldera mining contracts/Caldera mining contracts ~0.md",
+    "TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~1.md",
+    "TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~0.md",
     "TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/HH Caldera Mine.canvas",
-    "TES3 Plugins/OAAB Caldera Mine/Topics/Caldera mining contracts/Caldera mining contracts.md",
-    "TES3 Plugins/OAAB Caldera Mine/base.base",
+    "TES3 Plugins/OAAB Caldera Mine/Topic/Telvanni agents/Telvanni agents ~12.md",
     "TES3 Plugins/OAAB Caldera Mine/header.md",
+    "TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts.md",
+    "TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts",
+    "TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_UveranVilvyni/ABcm_UveranVilvyni ~100.md",
+    "TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_UveranVilvyni/ABcm_UveranVilvyni ~0.md",
+    "TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_UveranTerenu/ABcm_UveranTerenu ~100.md",
+    "TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_UveranTerenu/ABcm_UveranTerenu ~0.md",
+    "TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_UveranTerenu/ABcm_UveranTerenu.md",
+    "TES3 Plugins/OAAB Caldera Mine/Topic/Telvanni agents/Telvanni agents.md",
+    "TES3 Plugins/OAAB Caldera Mine/Journal/FG_Telvanni_agents/FG_Telvanni_agents.md",
+    "TES3 Plugins/OAAB Caldera Mine/Journal/FG_Telvanni_agents/FG_Telvanni_agents 1.md",
+    "TES3 Plugins/OAAB Caldera Mine/Topic/Telvanni agents",
+    "TES3 Plugins/OAAB Caldera Mine/Topic",
+    "TES3 Plugins/OAAB Caldera Mine/Journal/FG_Telvanni_agents",
+    "TES3 Plugins/OAAB Caldera Mine/Properties/Bloodmoon.esm_properties.md",
+    "TES3 Plugins/OAAB Caldera Mine/Properties/Dialogue Info - Base Properties.md",
+    "TES3 Plugins/OAAB Caldera Mine/Properties/Dialogue Function - Base Properties.md",
+    "TES3 Plugins/OAAB Caldera Mine/Properties/Tribunal.esm_properties.md",
+    "TES3 Plugins/OAAB Caldera Mine/Properties/Tamriel_Data.esm_properties.md",
+    "TES3 Plugins/OAAB Caldera Mine/Properties/OAAB_Data.esm_properties.md",
+    "TES3 Plugins/OAAB Caldera Mine/Properties/Morrowind.esm_properties.md",
+    "TES3 Plugins/OAAB Caldera Mine/base.base",
     "TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/Caldera Mine Main Quest.canvas",
     "Resources/Templates/Voice.md",
     "Resources/Templates/Topic-Persuasion-Greeting.md",
     "Resources/Templates/Function0.md",
     "Resources/Templates/Function1.md",
     "Resources/Templates/Function2.md",
-    "Resources/Templates/Function3.md",
-    "Resources/Templates/Function4.md",
-    "Resources/Templates/Function5.md",
-    "Resources/Templates/Journal.md",
     "Resources/Assets/Uveran.png",
     "Resources/Assets/skull_misc.png",
     "Resources/Assets/MW-place-Caldera_Mine.jpg",
@@ -248,32 +265,15 @@
     "Resources/Assets/MW-banner-House_Telvanni.png",
     "Resources/Assets/MW-banner-House_Redoran.png",
     "Resources/Assets/MW-banner-House_Hlaalu.png",
-    "TES3 Plugins/OAAB Caldera Mine/Topics/Caldera mining contracts/Caldera mining contracts ~0 1.md",
-    "TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine.md",
-    "TES3 Plugins/OAAB Caldera Mine/Objects/NPCs/Uveran.md",
-    "TES3 Plugins/OAAB Caldera Mine/Objects/NPCs/Garisa Llethri.md",
-    "TES3 Plugins/OAAB Caldera Mine/Objects/NPCs/Edd Theman.md",
-    "TES3 Plugins/OAAB Caldera Mine/Objects/NPCs/Duke Vedam Dren.md",
-    "TES3 Plugins/OAAB Caldera Mine/Objects/NPCs/Crassius Curio.md",
     "TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/HR Caldera Mine.canvas",
     "TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/HR Caldera Mine - Khuul Trade Route.canvas",
     "TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/HT Caldera Mine.canvas",
     "TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/Uveran Family.canvas",
     "TES3 Plugins/OAAB Caldera Mine/Quests/Caldera Mine Main Quest/HH Caldera Mine - Expand Operations.canvas",
-    "TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_UveranVilvyni/ABcm_UveranVilvyni ~100.md",
-    "TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_UveranVilvyni/ABcm_UveranVilvyni ~0.md",
-    "TES3 Plugins/OAAB Caldera Mine/Properties/Dialogue Function - Base Properties.md",
-    "TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_MineReport/ABcm_HH_MineReport.md",
-    "TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_HH_Mine/ABcm_HH_Mine ~0.md",
-    "TES3 Plugins/OAAB Caldera Mine/Journal/ABcm_UveranVilvyni/ABcm_UveranVilvyni.md",
     "TES3 Plugins/OAAB Caldera Mine/Properties",
     "Plugin exports/OAAB_Grazelands/OAAB_Grazelands_dialogue.log",
     "Plugin exports/OAAB_Grazelands/OAAB_Grazelands_dialogue.esp",
     "Plugin exports/OAAB_Grazelands/Greeting/Greeting 7",
-    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 5",
-    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 2",
-    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 1",
-    "Plugin exports/OAAB_Grazelands/Greeting",
-    "Plugin exports/OAAB_Grazelands/Voice/Thief"
+    "Plugin exports/OAAB_Grazelands/Greeting/Greeting 5"
   ]
 }

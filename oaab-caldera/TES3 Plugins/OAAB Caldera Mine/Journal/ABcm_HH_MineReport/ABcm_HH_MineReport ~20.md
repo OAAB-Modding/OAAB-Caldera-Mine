@@ -10,4 +10,4 @@ Quest Name: false
 Finished: false
 Restart: false
 ---
-It's been a day, I should follow up on the Caldera mining contract.
+It's been a day, I should follow up on the [[Caldera]] mining [[contract]].

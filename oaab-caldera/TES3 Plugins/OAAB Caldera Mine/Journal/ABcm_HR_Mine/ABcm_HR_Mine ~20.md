@@ -10,4 +10,4 @@ Quest Name: false
 Finished: false
 Restart: false
 ---
-Convinced Uveran to go to Ebonheart. Need to find report in Caldera Mine and then meet him there.
+Convinced Uveran to go to [[Ebonheart]]. Need to find [[report]] in [[Caldera]] Mine and then meet him there.

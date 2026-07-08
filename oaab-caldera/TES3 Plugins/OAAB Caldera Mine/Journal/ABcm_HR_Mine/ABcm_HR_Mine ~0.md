@@ -10,4 +10,4 @@ Quest Name: true
 Finished: false
 Restart: false
 ---
-House Redoran: Caldera Mine
+[[House Redoran]]: [[Caldera]] Mine

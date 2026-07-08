@@ -10,4 +10,4 @@ Quest Name: false
 Finished: false
 Restart: false
 ---
-Uveran sends player into the mine to find the report.
+Uveran sends player into the mine to find the [[report]].

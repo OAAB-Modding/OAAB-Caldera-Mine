@@ -10,4 +10,4 @@ Quest Name: false
 Finished: false
 Restart: false
 ---
-Crassius thanks player for bringing report and asks the player to wait a day.
+Crassius thanks player for bringing [[report]] and asks the player to wait a day.

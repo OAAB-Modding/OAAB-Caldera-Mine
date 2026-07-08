@@ -10,4 +10,4 @@ Quest Name: false
 Finished: false
 Restart: false
 ---
-I've found the Caldera mine report.
+I've found the [[Caldera]] mine [[report]].

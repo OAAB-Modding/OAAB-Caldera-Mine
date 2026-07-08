@@ -10,4 +10,4 @@ Quest Name: false
 Finished: true
 Restart: false
 ---
-Crassius thanks player for saving Caldera Mine.
+Crassius thanks player for saving [[Caldera]] Mine.

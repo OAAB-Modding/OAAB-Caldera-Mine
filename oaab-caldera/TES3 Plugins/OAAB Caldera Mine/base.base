@@ -5,32 +5,32 @@ filters:
         - file.path == this.file.path
 properties:
   file.name:
-    displayName: File
+    displayName: "File"
   DiagID:
-    displayName: Info ID
+    displayName: "Info ID"
   Disposition:
-    displayName: Disp
+    displayName: "Disp"
   ID:
-    displayName: ID
+    displayName: "ID"
   Faction:
-    displayName: Faction
+    displayName: "Faction"
   Cell:
-    displayName: Cell
+    displayName: "Cell"
   Variable0:
-    displayName: Var 0
+    displayName: "Var 0"
   Variable1:
-    displayName: Var 1
+    displayName: "Var 1"
   Variable2:
-    displayName: Var 2
+    displayName: "Var 2"
   Variable3:
-    displayName: Var 3
+    displayName: "Var 3"
   Variable4:
-    displayName: Var 4
+    displayName: "Var 4"
   Variable5:
-    displayName: Var 5
+    displayName: "Var 5"
 views:
   - type: table
-    name: Topic View
+    name: "Topic View"
     order:
       - file.name
       - DiagID
@@ -45,7 +45,7 @@ views:
       - Variable4
       - Variable5
   - type: table
-    name: Greeting View
+    name: "Greeting View"
     order:
       - file.name
       - DiagID
@@ -60,7 +60,7 @@ views:
       - Variable4
       - Variable5
   - type: table
-    name: Journal View
+    name: "Journal View"
     order:
       - file.name
       - DiagID
@@ -75,7 +75,7 @@ views:
       - Variable4
       - Variable5
   - type: table
-    name: Persuasion View
+    name: "Persuasion View"
     order:
       - file.name
       - DiagID
@@ -90,7 +90,7 @@ views:
       - Variable4
       - Variable5
   - type: table
-    name: Voice View
+    name: "Voice View"
     order:
       - file.name
       - DiagID

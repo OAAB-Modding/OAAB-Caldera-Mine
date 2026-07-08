@@ -10,4 +10,4 @@ Quest Name: false
 Finished: false
 Restart: false
 ---
-HR has attacked the mine. I need to go lend them aid.
+HR has attacked the mine. I [[need]] to go lend them aid.

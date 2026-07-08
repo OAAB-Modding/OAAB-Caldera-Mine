@@ -10,4 +10,4 @@ Quest Name: false
 Finished: false
 Restart: false
 ---
-Edd seemed pleased with the destruction of the Caldera mine.
+Edd seemed pleased with the [[destruction]] of the [[Caldera]] mine.

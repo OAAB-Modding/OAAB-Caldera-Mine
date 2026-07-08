@@ -10,4 +10,4 @@ Quest Name: false
 Finished: false
 Restart: false
 ---
-Uveran confirms this is the report and asks the player to wait a day.
+Uveran confirms this is the [[report]] and asks the player to wait a day.

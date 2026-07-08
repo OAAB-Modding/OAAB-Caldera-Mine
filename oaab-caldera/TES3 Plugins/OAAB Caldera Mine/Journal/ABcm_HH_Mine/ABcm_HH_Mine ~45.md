@@ -10,4 +10,4 @@ Quest Name: false
 Finished: false
 Restart: false
 ---
-Crassius sends player into the mine to find the report.
+Crassius sends player into the mine to find the [[report]].
