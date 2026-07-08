@@ -23,5 +23,8 @@ Variable 0: HR_CalderaCorrupt = 100
 Function 1:
   - Journal
 Variable 1: ABcm_HR_Mine = 0
+canvas:
+  - "[[HR Caldera Mine.canvas]]"
+HR Caldera Mine: []
 ---
 Llethri sends you to find new Uveran NPC. Need to convince them that they'll be safe from MT assassins when they make a claimto Caldera.

@@ -1,0 +1,10 @@
+{
+  "showReleaseNotes": true,
+  "previousRelease": "1.0.29",
+  "enableFrontmatter": true,
+  "enableCustomCSS": true,
+  "defaultTextNodeWidth": 250,
+  "defaultTextNodeHeight": 60,
+  "defaultFileNodeWidth": 400,
+  "defaultFileNodeHeight": 400
+}
