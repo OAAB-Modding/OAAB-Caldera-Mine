@@ -9,5 +9,8 @@ Index: 30
 Quest Name: false
 Finished: false
 Restart: false
+canvas:
+  - "[[House Hlaalu_ Caldera Mine.canvas]]"
+House Hlaalu_ Caldera Mine: []
 ---
 Informed Crassius that Uveran joined HH. Crassius sends player to talk to Uveran about the mine [[report]].

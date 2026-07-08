@@ -1,0 +1,27 @@
+---
+Source:
+Type: Topic
+Topic: Caldera mining contracts
+DiagID:
+PrevID:
+Disposition: 0
+ID: crassius curio
+Race:
+Sex:
+Class:
+Faction:
+Rank:
+Cell:
+PC Faction: Hlaalu
+PC Rank:
+Result: Journal "ABcm_HH_Mine" 30
+Function0: Journal - Journal
+Variable0: ABcm_HH_Mine = 20
+canvas:
+  - "[[House Hlaalu_ Caldera Mine.canvas]]"
+House Hlaalu_ Caldera Mine:
+  - "[[ABcm_HH_Mine ~30]]"
+---
+So Uveran will join with House Hlaalu. Excellent work, sweetie. He will be instated as the new town reeve of Caldera. Replacing Odral Helvi.
+
+; Having an Uveran on their side isn’t good enough and they need to find evidence that the Uveran family had prior knowledge of the ebony deposit to substantiate that the family had mineral rights to the land they claimed. Go talk to Uveran to get more information.

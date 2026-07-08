@@ -16,12 +16,12 @@ Cell:
 PC Faction:
   - Hlaalu
 PC Rank:
-Result:
+Result: Choice "Threaten Uveran" 1 "Disposition check" 2 "Tell Uveran you're here to kill him." 3
 Function0:
   - Journal
-Variable0: ABcm_HH_Mine = 70
+Variable0: ABcm_HH_Mine = 10
 canvas:
   - "[[House Hlaalu_ Caldera Mine.canvas]]"
 House Hlaalu_ Caldera Mine: []
 ---
-Thank you for protecting my ancestral home. You should let Crassius Curio know what happened here.
+; Convince Uveran to defect to HH or kill them

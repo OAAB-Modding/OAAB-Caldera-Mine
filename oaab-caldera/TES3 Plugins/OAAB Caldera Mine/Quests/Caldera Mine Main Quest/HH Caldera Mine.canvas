@@ -106,8 +106,7 @@
 			"y":289,
 			"width":380,
 			"height":137
-		},
-		{"id":"fcbc5799b305a078","type":"file","file":"TES3 Plugins/OAAB Caldera Mine/Topic/Caldera mining contracts/Caldera mining contracts ~0.md","x":120,"y":-1560,"width":400,"height":400}
+		}
 	],
 	"edges":[
 		{"id":"c20e0e407ee7d0a7","fromNode":"eeaac57d2381456e","fromSide":"right","toNode":"e5726f9662f60478","toSide":"left"},

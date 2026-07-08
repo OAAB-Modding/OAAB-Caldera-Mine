@@ -9,5 +9,9 @@ Index: 20
 Quest Name: false
 Finished: false
 Restart: false
+canvas:
+  - "[[House Hlaalu_ Caldera Mine.canvas]]"
+House Hlaalu_ Caldera Mine:
+  - "[[ABcm_HH_Mine ~25]]"
 ---
 Convinced Uveran to join HH.

@@ -1,12 +1,12 @@
 ---
 Source:
-Type: Topic
-Topic: Caldera mining contracts
+Type: Greeting
+Topic: Greeting 1
 DiagID:
 PrevID:
 Disposition: 0
 ID:
-  - ABcm_Uveran
+  - crassius curio
 Race:
 Sex:
 Class:
@@ -19,9 +19,12 @@ PC Rank:
 Result:
 Function0:
   - Journal
-Variable0: ABcm_HH_Mine = 70
+Variable0: Journal ABcm_HH_MineReport 20
+Function1:
+  - Journal
+Variable1: ABcm_HH_Mine = 60
 canvas:
   - "[[House Hlaalu_ Caldera Mine.canvas]]"
 House Hlaalu_ Caldera Mine: []
 ---
-Thank you for protecting my ancestral home. You should let Crassius Curio know what happened here.
+Get over to the mines!

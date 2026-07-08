@@ -13,15 +13,19 @@ Class:
 Faction:
 Rank:
 Cell:
-PC Faction:
-  - Hlaalu
+PC Faction: Hlaalu
 PC Rank:
-Result:
-Function0:
-  - Journal
-Variable0: ABcm_HH_Mine = 70
+Result: |-
+  ; Check strength and disposition (FAIL)
+  setfight 100
+  StartCombat Player
+  Goodbye
+Function0: Journal
+Variable0: ABcm_HH_Mine = 10
+Function1: Function
+Variable1: Choice = 3
 canvas:
   - "[[House Hlaalu_ Caldera Mine.canvas]]"
 House Hlaalu_ Caldera Mine: []
 ---
-Thank you for protecting my ancestral home. You should let Crassius Curio know what happened here.
+Then die!

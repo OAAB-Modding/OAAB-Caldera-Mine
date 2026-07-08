@@ -16,11 +16,13 @@ Cell:
 PC Faction:
   - Hlaalu
 PC Rank:
-Result: "Journal ABcm_HH_Mine 10\r
-
-  ; Got Odral helvi arrested in Shipment of Ebony quest."
+Result: Journal "ABcm_HH_Mine" 100
 Function0:
   - Journal
-Variable1: HH_EbonyDelivery = 110
+Variable0: ABcm_HH_Mine = 70
+canvas:
+  - "[[House Hlaalu_ Caldera Mine.canvas]]"
+House Hlaalu_ Caldera Mine:
+  - "[[ABcm_HH_Mine ~100]]"
 ---
-; Curio tells you that a Redoran with claims to Caldera has surfaced in Ald-ruhn. You are sent to either convince them to defect to HH or kill them.
+These acts of aggression combined with the discovery of the surveyor’s journal and the surviving Uveran relinquishing their claim to House Hlaalu defeats the House Redoran designs on the mine.

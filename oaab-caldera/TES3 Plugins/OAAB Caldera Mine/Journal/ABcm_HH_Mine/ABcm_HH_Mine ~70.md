@@ -9,5 +9,8 @@ Index: 70
 Quest Name: false
 Finished: false
 Restart: false
+canvas:
+  - "[[House Hlaalu_ Caldera Mine.canvas]]"
+House Hlaalu_ Caldera Mine: []
 ---
 I stopped HR from taking over the mine and HT from blowing it up. I should tell Crassius what happened here.

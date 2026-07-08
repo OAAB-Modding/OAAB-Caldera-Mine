@@ -9,5 +9,8 @@ Index: 100
 Quest Name: false
 Finished: true
 Restart: false
+canvas:
+  - "[[House Hlaalu_ Caldera Mine.canvas]]"
+House Hlaalu_ Caldera Mine: []
 ---
 Crassius thanks player for saving [[Caldera]] Mine.
