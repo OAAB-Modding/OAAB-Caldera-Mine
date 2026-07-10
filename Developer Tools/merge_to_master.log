@@ -1,12 +1,16 @@
 Merging plugins...
-Merging object to master: NPC_ ABcm_Uveran
-Merging exterior to master: (-3, 1)
-Merging exterior to master: (-2, 1)
-Merging exterior to master: (-2, 0)
-Merging exterior to master: (-3, 2)
-Merging exterior to master: (-3, 0)
-Merging exterior to master: (-4, 1)
-Merging exterior to master: (-4, 0)
-Merging interior to master: Ald-ruhn, Redoran Council Hall
+Copying object to master: abcm_ht_minewarning
+Merging object to master: fg_telvanni_agents
+Copying object to master: abcm_uveranfamily
+Merging object to master: caldera mining contracts
+Copying object to master: abcm_uveranrirns
+Copying object to master: abcm_hh_mine
+Copying object to master: abcm_hh_minereport
+Copying object to master: abcm_uveranterenu
+Merging object to master: telvanni agents
+Merging object to master: greeting 1
+Copying object to master: abcm_uveranvilvyni
+Copying object to master: abcm_ht_mine
+Copying object to master: abcm_hr_mine
 Saving results...
 Finished!
