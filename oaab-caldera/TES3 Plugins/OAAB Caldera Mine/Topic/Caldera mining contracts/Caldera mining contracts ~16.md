@@ -19,9 +19,5 @@ Function0: Function
 Variable0: Choice = 31
 Function1: Journal
 Variable1: ABcm_HH_Mine = 10
-canvas:
-  - "[[House Hlaalu_ Caldera Mine.canvas]]"
-House Hlaalu_ Caldera Mine:
-  - "[[ABcm_HH_Mine ~20]]"
 ---
-I'm not an idiot, %PCName. House Redoran is not in a position of power. House Hlaalu can offer me far better protection. I will join.
+I'm not an idiot, %PCName. [[House Redoran]] is not in a position of power. [[House Hlaalu]] can offer me far better protection. I will join.

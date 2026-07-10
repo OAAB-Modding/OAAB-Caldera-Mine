@@ -23,8 +23,5 @@ Variable0: Journal ABcm_HH_MineReport 20
 Function1:
   - Journal
 Variable1: ABcm_HH_Mine = 60
-canvas:
-  - "[[House Hlaalu_ Caldera Mine.canvas]]"
-House Hlaalu_ Caldera Mine: []
 ---
 Get over to the mines!

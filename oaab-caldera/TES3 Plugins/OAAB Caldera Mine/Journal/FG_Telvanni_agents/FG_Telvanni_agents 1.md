@@ -2,8 +2,8 @@
 Source:
 Type: Journal
 Topic: FG_Telvanni_agents
-DiagID: 17515323232615912540
-PrevID: 218623046490215864
+DiagID: 17515323232615913000
+PrevID: 218623046490215870
 Index: 1
 Quest Name: false
 Finished: false

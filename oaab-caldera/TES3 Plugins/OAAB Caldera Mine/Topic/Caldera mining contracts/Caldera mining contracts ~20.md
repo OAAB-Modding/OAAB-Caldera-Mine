@@ -14,17 +14,16 @@ Rank:
 Cell:
 PC Faction: Hlaalu
 PC Rank:
-Result: |-
-  ; Check strength and disposition (FAIL)
-  setfight 100
-  StartCombat Player
-  Goodbye
+Result: "; Check strength and disposition (FAIL)\r
+
+  setfight 100\r
+
+  StartCombat Player\r
+
+  Goodbye"
 Function0: Function
 Variable0: Choice = 3
 Function1: Journal
 Variable1: ABcm_HH_Mine = 10
-canvas:
-  - "[[House Hlaalu_ Caldera Mine.canvas]]"
-House Hlaalu_ Caldera Mine: []
 ---
 Then die!

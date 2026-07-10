@@ -21,9 +21,5 @@ Function0: Journal
 Variable0: ABcm_HH_Mine = 45
 Function1: Journal
 Variable1: Journal ABcm_HH_MineReport 10
-canvas:
-  - "[[House Hlaalu_ Caldera Mine.canvas]]"
-House Hlaalu_ Caldera Mine:
-  - "[[ABcm_HH_Mine ~55]]"
 ---
-This must be the Uveran mining report. With this in our possession, House Redoran's claim to the Caldera mine holds no legal weight. Give me a day to discuss next steps with House Hlaalu's barristers.
+This must be the Uveran mining [[report]]. With this in our possession, [[House Redoran]]'s claim to the [[Caldera]] mine holds no legal weight. Give me a day to [[discuss]] next steps with [[House Hlaalu]]'s barristers.

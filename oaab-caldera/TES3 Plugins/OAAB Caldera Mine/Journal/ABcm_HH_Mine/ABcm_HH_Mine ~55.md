@@ -9,8 +9,5 @@ Index: 55
 Quest Name: false
 Finished: false
 Restart: false
-canvas:
-  - "[[House Hlaalu_ Caldera Mine.canvas]]"
-House Hlaalu_ Caldera Mine: []
 ---
-Crassius Curio thanked me for bringing him the lost report. He said to wait a day and then speak to him again.
+[[Crassius Curio]] thanked me for bringing him the lost [[report]]. He said to wait a day and then speak to him again.

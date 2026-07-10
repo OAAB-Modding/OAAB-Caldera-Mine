@@ -22,9 +22,5 @@ Variable1: Journal ABcm_HH_MineReport 20
 Function2:
   - Journal
 Variable2: ABcm_HH_Mine >= 50
-canvas:
-  - "[[House Hlaalu_ Caldera Mine.canvas]]"
-House Hlaalu_ Caldera Mine:
-  - "[[ABcm_HH_Mine ~60]]"
 ---
-I just received word that House Redoran has attacked the Caldera mine. You must go there and protect House Hlaalu's interests!
+I just received word that [[House Redoran]] has attacked the [[Caldera]] mine. You must go there and protect [[House Hlaalu]]'s interests!

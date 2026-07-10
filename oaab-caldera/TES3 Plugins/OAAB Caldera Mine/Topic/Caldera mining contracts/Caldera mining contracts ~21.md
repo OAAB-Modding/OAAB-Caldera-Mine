@@ -20,8 +20,5 @@ Result: Choice "You'll join House Hlaalu if you know what's good for you!" 1 "I'
 Function0:
   - Journal
 Variable0: ABcm_HH_Mine = 10
-canvas:
-  - "[[House Hlaalu_ Caldera Mine.canvas]]"
-House Hlaalu_ Caldera Mine: []
 ---
-I see that the rumor mill is operational today. My family's claim to Caldera is my business, %PCRace. Who are you, anyway? House Hlaalu's enforcer here to rough me up?
+I see that the rumor mill is operational today. My family's claim to [[Caldera]] is my [[business]], %PCRace. Who are you, anyway? [[House Hlaalu]]'s enforcer here to rough me up?

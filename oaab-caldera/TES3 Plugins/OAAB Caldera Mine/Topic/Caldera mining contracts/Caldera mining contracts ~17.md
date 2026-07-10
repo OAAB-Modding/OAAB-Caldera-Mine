@@ -22,8 +22,5 @@ Function0: Function
 Variable0: Choice = 32
 Function1: Journal
 Variable1: ABcm_HH_Mine = 10
-canvas:
-  - "[[House Hlaalu_ Caldera Mine.canvas]]"
-House Hlaalu_ Caldera Mine: []
 ---
 Then die!

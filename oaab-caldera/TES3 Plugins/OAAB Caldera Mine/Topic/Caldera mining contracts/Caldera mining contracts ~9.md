@@ -20,8 +20,5 @@ Result:
 Function0:
   - Journal
 Variable0: ABcm_HH_Mine = 10
-canvas:
-  - "[[House Hlaalu_ Caldera Mine.canvas]]"
-House Hlaalu_ Caldera Mine: []
 ---
-You need to find Solis Uveran in Ald-ruhn. Check the Council Hall.
+You [[need]] to find Solis Uveran in Ald-ruhn. Check the Council Hall.

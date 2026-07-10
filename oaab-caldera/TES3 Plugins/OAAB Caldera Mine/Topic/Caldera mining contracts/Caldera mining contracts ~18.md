@@ -23,8 +23,5 @@ Function1: Journal
 Variable1: ABcm_HH_Mine = 10
 Function2: Function - Function
 Variable2: PC Strength >= 50
-canvas:
-  - "[[House Hlaalu_ Caldera Mine.canvas]]"
-House Hlaalu_ Caldera Mine: []
 ---
-Wait, wait. Can't we talk about this? I'm no enemy to House Hlaalu.
+Wait, wait. Can't we talk about this? I'm no enemy to [[House Hlaalu]].

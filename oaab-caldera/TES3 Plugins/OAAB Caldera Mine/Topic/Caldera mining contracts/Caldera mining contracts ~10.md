@@ -14,18 +14,16 @@ Rank:
 Cell:
 PC Faction: Hlaalu
 PC Rank:
-Result: |-
-  ModDisposition -10
-  Goodbye
-  ; Check strength (FAIL)
+Result: "; Check strength (FAIL)\r
+
+  ModDisposition -10\r
+
+  Goodbye"
 Function0: Journal
 Variable0: ABcm_HH_Mine = 10
 Function1: Function
 Variable1: PC Strength < 50
 Function2: Function
 Variable2: Choice = 1
-canvas:
-  - "[[House Hlaalu_ Caldera Mine.canvas]]"
-House Hlaalu_ Caldera Mine: []
 ---
-This is all House Hlaalu can muster? You're pathetic.
+This is all [[House Hlaalu]] can muster? You're pathetic.
